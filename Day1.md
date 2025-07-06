@@ -91,7 +91,8 @@ This is just Day 1, but I already feel like I’ve taken the first real step tow
 
 ## 📦 Project Repository
 
-📍 [GitHub Repo – devops_day1](https://github.com/yourusername/devops_day1)
+📍 [GitHub Repo – devops_day1](https://github.com/ritesh355/Devops-journal/edit/main/Day1.md)
+
 
 ---
 
