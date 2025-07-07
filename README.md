@@ -21,7 +21,7 @@ This repo contains:
 | Day | Topics Covered | Link |
 |-----|----------------|------|
 | Day 1 | Linux basics, touch vs echo, serving HTML | [Day1.md](./Day1.md) |
-| Day 2 | File permissions, Git basics, GitHub push | [Day2.md](./Day2.md) |
+| Day 2 | File permissions, Git basics, GitHub push | [Day2.md](./Day2(1).md) |
 | Day 3 | EC2, SSH, Nginx hosting | Coming soon... |
 | ...  | ... | ... |
 
