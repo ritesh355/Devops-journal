@@ -72,7 +72,7 @@ I then opened `http://localhost:8000` in my browser — and boom 💥, my first 
 - Deep dive into **Linux file permissions**  
 - Start using **Git & GitHub**  
 - Push my first repository  
-- Begin solving **OverTheWire Bandit wargame**
+
 
 ---
 
