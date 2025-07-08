@@ -163,7 +163,7 @@ sleep 9999 &    # 2 hours 46 min (9999 sec)
 
 ## 📦 GitHub Repo
 
-📍 [DevOps Journal – Day3.md](https://github.com/ritesh355/devops-journal/tree/main/Devops-journal)
+📍 [DevOps Journal – Day3.md](https://github.com/ritesh355/Devops-journal/edit/main/Day3.md)
 
 ---
 
