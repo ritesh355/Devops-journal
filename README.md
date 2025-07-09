@@ -23,8 +23,7 @@ This repo contains:
 | Day 1 | Linux basics, touch vs echo, serving HTML | [Day1.md](./Day1.md) |
 | Day 2 | File permissions, Git basics, GitHub push | [Day2.md](./Day2(1).md) |
 | Day 3 | Process management & system info | [Devops-journal/Day3.md](./Day3.md) |
-
-| ...  | ... | ... |
+| Day 4 | Linux User And Group Management| [ Day4.md ](./day4.md) |
 
 ---
 
@@ -43,7 +42,7 @@ This repo contains:
 
 ## 📅 Current Status
 
-- 🟩 Currently on: **Day 2**
+- 🟩 Currently on: **Day 4**
 - 📖 Blog: [ritesh-devops.hashnode.dev](https://ritesh-devops.hashnode.dev)
 - 🔗 LinkedIn: [linkedin.com/in/ritesh-singh-092b84340](https://linkedin.com/in/ritesh-singh-092b84340)
 
