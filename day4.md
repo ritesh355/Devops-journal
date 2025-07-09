@@ -1,244 +1,106 @@
-🔐 Day 4 – Linux User and Group Management
-
-Today, I focused on mastering Linux user and group management, a critical skill for DevOps to secure systems and enable team collaboration.
 
 
+# 🔐 Day 4 – Linux User and Group Management
 
-👤 Creating and Managing Users
+Today, I focused on mastering **Linux user and group management**, a critical skill for DevOps to secure systems and enable team collaboration.
 
-To create a new user named ravi with a home directory and set their password:
+---
 
+## 👤 Creating and Managing Users
+
+Create a new user `ravi` with a home directory and password:
+
+```bash
 sudo adduser ravi
 sudo passwd ravi
 
-These commands create the user ravi, set their password, and automatically configure a home directory and default user group.
+    adduser: Creates the user ravi, a home directory, and default group.
 
-
+    passwd: Sets or updates the user password.
 
 🔁 Switching Users and Verifying Identity
 
-To switch to the user ravi and verify their identity:
+Test user access and verify identity:
 
 su - ravi
 whoami
 id
 
+    su - ravi: Switches to the ravi user with login environment.
 
+    whoami: Displays current user.
 
-
-
-su - ravi: Switches to the ravi user with their environment.
-
-
-
-whoami: Displays the current user.
-
-
-
-id: Shows user and group associations for ravi.
-
-This is useful for testing login functionality and confirming user setup.
-
-
+    id: Shows user ID and group membership.
 
 🔐 Granting Sudo Access
 
-To allow ravi to run administrative commands with sudo:
+Give ravi sudo privileges:
 
 sudo usermod -aG sudo ravi
 
-The -aG flag appends ravi to the sudo group, enabling secure administrative tasks without modifying existing group memberships.
-
-
+    usermod -aG sudo ravi: Adds ravi to the sudo group for administrative tasks.
 
 👥 Working with Groups
 
-To create a shared group for team collaboration and add ravi to it:
+Create a shared group and add ravi:
 
 sudo groupadd devs
 sudo usermod -aG devs ravi
 groups ravi
 
+    groupadd devs: Creates a new group devs.
 
+    usermod -aG devs ravi: Adds user to the devs group.
 
-
-
-groupadd devs: Creates a new group named devs.
-
-
-
-usermod -aG devs ravi: Adds ravi to the devs group.
-
-
-
-groups ravi: Lists all groups ravi belongs to.
-
-This setup is ideal for managing permissions for multiple users in a team.
-
-
+    groups ravi: Lists all groups for ravi.
 
 📂 Changing Group Ownership of Files/Folders
 
-To assign group ownership to files or directories:
+Assign group ownership to a file or directory:
 
 sudo chgrp devs filename
 sudo chgrp -R devs /home/ritesh/shared_folder
 
+    chgrp devs: Changes the group ownership to devs.
 
-
-
-
-chgrp devs filename: Changes the group ownership of a specific file to devs.
-
-
-
--R: Applies the group change recursively to directories and their contents.
-
-
+    -R: Applies changes recursively.
 
 📁 Creating a Shared Folder with Proper Permissions
 
-To create a shared folder accessible only to the owner and group, with group inheritance for new files:
+Create a team-shared folder with permission control and group inheritance:
 
 sudo mkdir /home/ritesh/shared_folder
 sudo chgrp devs /home/ritesh/shared_folder
 sudo chmod 770 /home/ritesh/shared_folder
 sudo chmod g+s /home/ritesh/shared_folder
 
-This ensures:
+    chmod 770: Owner and group have full access; others have none.
 
-
-
-
-
-770 permissions: Only the owner and devs group members have read/write/execute access; others have none.
-
-
-
-g+s (setgid): New files in the folder inherit the devs group, ensuring consistent group ownership.
-
-
+    chmod g+s: Ensures all new files inherit the devs group automatically.
 
 ✅ What I Learned
 
+    Creating users and assigning passwords.
 
+    Granting sudo access using usermod.
 
+    Creating and managing groups for collaborative environments.
 
+    Modifying file/folder group ownership and permissions.
 
-How to create and manage users with adduser and set passwords with passwd.
-
-
-
-Adding users to groups using usermod -aG for role-based access control.
-
-
-
-Granting sudo access for administrative tasks.
-
-
-
-Managing file and folder permissions with chgrp and chmod.
-
-
-
-Setting up shared team folders with proper access control and group inheritance.
-
-
+    Creating shared folders with inherited access rules.
 
 📘 Commands Summary
-
-
-
-
-
-
-
-Command
-
-
-
-Purpose
-
-
-
-
-
-adduser
-
-
-
-Create a new user with home directory
-
-
-
-
-
-passwd
-
-
-
-Set or change a user’s password
-
-
-
-
-
-usermod -aG
-
-
-
-Add a user to a group
-
-
-
-
-
-groupadd
-
-
-
-Create a new group
-
-
-
-
-
-chgrp
-
-
-
-Change group ownership of a file/directory
-
-
-
-
-
-chmod
-
-
-
-Set file or directory permissions
-
-
-
-
-
-chmod g+s
-
-
-
-Enable group inheritance on directories
-
-
-
+Command	Purpose
+adduser	Create a new user with a home directory
+passwd	Set or change a user’s password
+usermod -aG	Add a user to a group
+groupadd	Create a new group
+chgrp	Change group ownership of a file/folder
+chmod	Set file or directory permissions
+chmod g+s	Enable group inheritance on directories
 🔗 Resources
 
+    📘 GitHub Repo – ritesh355/devops-journal
 
-
-
-
-GitHub Repo: ritesh355/devops-journal
-
-
-
-LinkedIn: ritesh-singh-092b84340
+    👨‍💼 LinkedIn – Ritesh Singh
