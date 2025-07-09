@@ -1,5 +1,5 @@
+# 🚀 Day 4 of My DevOps Journey :  Linux User and Group Management
 
-# 🔐 Day 4 – Linux User and Group Management
 
 Today, I focused on mastering **Linux user and group management**, a critical skill for DevOps to secure systems and enable team collaboration.
 
