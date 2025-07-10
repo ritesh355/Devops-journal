@@ -24,7 +24,7 @@ This repo contains:
 | Day 2 | File permissions, Git basics, GitHub push | [Day2.md](./Day2(1).md) |
 | Day 3 | Process management & system info | [Devops-journal/Day3.md](./Day3.md) |
 | Day 4 | Linux User And Group Management| [ Day4.md ](./day4.md) |
-
+| Day 5 | Bash Scripting | [Day5.md](./Day5.md)
 ---
 
 ## 🔧 Tools I'm Learning
