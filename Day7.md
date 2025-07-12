@@ -117,9 +117,9 @@ Merge conflicts happen when:
 
 🔗 Resources
 
-    Git Branching Tutorial – Atlassian
+    [Git Branching Tutorial](https://www.atlassian.com/git/tutorials/using-branches)
 
-    Learn Git Branching (visual tool)
+    [Learn Git Branching] (https://learngitbranching.js.org/)
 
 📘 Next Steps
 
