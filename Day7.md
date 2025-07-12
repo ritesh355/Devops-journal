@@ -1,4 +1,4 @@
-📘 Day7.md — Git Branching, Merging & Conflict Resolution
+
 
 # 📅 Day 7 – Git Branching, Merging & Conflict Resolution
 
