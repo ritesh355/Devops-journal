@@ -19,7 +19,7 @@ Pushing my backup.sh project publicly was a proud moment, proving I could share 
 ## Setting Up GitHub
 
 First, I needed a GitHub account. If you don’t have one, head to github.com and sign up with your email. I used ritesh@example.com and picked a username, ritesh-devops, to reflect my DevOps journey. After verification, I was ready to create my first repository.
-
+https://github.com/ritesh355
 ###Creating a Repository
 
 1. On the GitHub homepage, I clicked the “+” icon and selected “New repository.”
@@ -30,7 +30,7 @@ First, I needed a GitHub account. If you don’t have one, head to github.com an
 
 4. I skipped initializing with a README or .gitignore since I’d push my local files.
 
-5. Clicking “Create repository” gave me the URL: https://github.com/ritesh-devops/day6-backup-project.git.
+5. Clicking “Create repository” gave me the URL: 
 ---
 
 ## Configuring Git Locally
@@ -118,4 +118,4 @@ Ritesh
 ## 🙌 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)
-- 💻 [GitHub](https://github.com/ritesh355)
+- 💻 [GitHub]([https://github.com/ritesh355](https://github.com/ritesh355))
