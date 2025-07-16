@@ -28,7 +28,7 @@ This repo contains:
 | Day 6 | Automatic System Health with bash | [Day6.md](https://github.com/ritesh355/Devops-journal/tree/main/Day6)
 | Day 7 | Git Branching Merging and Conflict Resolution | [Day7.md](https://github.com/ritesh355/Devops-journal/blob/main/Day7.md)
 | Day 8 | Mastering Github and pushing project publicly | [Day8.md](https://github.com/ritesh355/Devops-journal/blob/main/Day8.md)
-| Day 9 | Archiving Compression and Backup Automation | [Day9.md]()
+| Day 9 | Archiving Compression and Backup Automation | [Day9.md](https://github.com/ritesh355/Devops-journal/blob/main/Day9.md)
 | Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [day10.md](https://github.com/ritesh355/Devops-journal/blob/main/Day10.md)
 | Day 11 |
 | Day 12 |
