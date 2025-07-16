@@ -24,7 +24,14 @@ This repo contains:
 | Day 2 | File permissions, Git basics, GitHub push | [Day2.md](./Day2(1).md) |
 | Day 3 | Process management & system info | [Devops-journal/Day3.md](./Day3.md) |
 | Day 4 | Linux User And Group Management| [ Day4.md ](./day4.md) |
-| Day 5 | Bash Scripting | [Day5.md](./Day5.md)
+| Day 5 | Bash Scripting | [Day5.md](./Day5.md)|
+| Day 6 | Automatic System Health with bash | [Day6.md]()
+| Day 7 | Git Branching Merging and Conflict Resolution | [Day7.md]()
+| Day 8 | Mastering Github and pushing project publicly | [Day8.md]()
+| Day 9 | Archiving Compression and Backup Automation | [Day9.md]()
+| Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [day10.md]()
+| Day 11 |
+| Day 12 |
 ---
 
 ## 🔧 Tools I'm Learning
