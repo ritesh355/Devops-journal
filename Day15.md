@@ -1,6 +1,5 @@
 # 🚀 Day 15 of My DevOps Journey: Network Configuration and Troubleshooting in Linux
 
-**Date:** July 17, 2025
 
 Today was all about understanding how to troubleshoot network issues in Linux. I dove into useful commands like `ping`, `ss`, `nmap`, and `curl` to simulate real-world problems and resolve them step-by-step.
 
