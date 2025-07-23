@@ -32,41 +32,47 @@ Today was a **Review + Lab Day**, where I practiced everything I’ve learned so
 # File operations
 mkdir lab_dir && cd lab_dir
 touch file1.txt && chmod 640 file1.txt
-
+```
 # User management
+```bash
 sudo adduser devuser
 sudo passwd devuser
 sudo usermod -aG sudo devuser
-
+```
 # Logs
+```bash
 sudo tail -n 50 /var/log/syslog
 journalctl -xe
-
+```
 ---
 ### ✅ Git Lab
 # Init and commit
+```bash
 mkdir git-lab && cd git-lab
 git init
 echo "# Git Lab" > README.md
 git add . && git commit -m "Initial commit"
-
+```
 # Branching and merging
+```
 git checkout -b dev
 echo "New line" >> README.md
 git add . && git commit -m "Dev update"
 git checkout main
 git merge dev
-
+```
 ---
 
 ### ✅ Bash Lab
 
 # Basic script
+```bash
 echo -e '#!/bin/bash\necho "Hello, $USER. Today is $(date)."' > hello.sh
 chmod +x hello.sh
 ./hello.sh
-
+```
 # Logic script
+```
 cat <<EOF > check_even.sh
 #!/bin/bash
 read -p "Enter a number: " num
@@ -78,7 +84,7 @@ fi
 EOF
 chmod +x check_even.sh
 ./check_even.sh
-
+```
 ---
 
 
@@ -86,13 +92,13 @@ chmod +x check_even.sh
 
 Build a script that:
 
-    Initializes a Git repo
+-    Initializes a Git repo
 
-    Creates a branch
+-    Creates a branch
 
-    Adds a file and commits
+-    Adds a file and commits
 
-    Pushes it (for Day 19 foundation)
+-    Pushes it (for Day 19 foundation)
 ---
 
 ###✅ Summary
@@ -109,7 +115,18 @@ Build a script that:
 
 ---
 
-  #linux #git #github #bash #  shellscript #devops
+ 💬 Let’s Connect!
+
+💬 Drop your feedback or suggestions here or on LinkedIn. Let’s grow together!
+#100DaysOfDevOps #Bash #GitHubCLI #DevOpsTools # github 
+
+
+
+
+
+
+
+
 
 
 
