@@ -184,5 +184,5 @@ docker network prune
 ⚠️ **Warning**: This will remove all unused networks. Ensure no containers depend on them.
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn – Ritesh Singh](https://www.linkedin.com/in/ritesh-singh-/)
+- 💼 [LinkedIn – Ritesh Singh](https://www.linkedin.com/in/ritesh-singh-092b84340/)
 - 💻 [GitHub – ritesh355](https://github.com/ritesh355)
