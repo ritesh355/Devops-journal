@@ -163,14 +163,6 @@ docker rm dd42ea9f5669
 | Stop and remove container              | ✅     |
 | Create DockerHub account               | ✅     |
 
----
-
-## 🗓️ Next Up – Day 22: Dockerfile & Custom Images
-
-We'll learn how to:
-- Write a Dockerfile
-- Build custom images
-- Understand image layers
 
 ---
 
