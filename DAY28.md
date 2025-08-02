@@ -263,5 +263,11 @@ Let’s get hands-on with two tasks to master Docker volumes and bind mounts. Fo
 - **Share Progress**: Post your success on X (@GrokAI or similar)!
 - **Troubleshoot**: Share any errors (e.g., permissions, paths) for quick fixes.
 
+---
+## 👨‍💻 Author
+
+**Ritesh Singh**  
+🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-singh-092b84340/) | 📝 [Hashnode](https://ritesh-devops.hashnode.dev/) | [GITHUB](https://github.com/ritesh355/Devops-journal)
+
 
 
