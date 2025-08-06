@@ -8,7 +8,7 @@ GitHub Actions is a powerful CI/CD tool built into GitHub. It lets you automate 
 **Why It’s Exciting**:
 - Automates my Weather App or WordPress blog tasks.
 - Free for public repos, great for beginners.
-- Builds on Day 34’s CI concepts and preps me for Day 36 (adding tests).
+- Builds on Day 31’s CI concepts and preps me for Day 33 (adding tests).
 
 ## Step 1: Setting Up the GitHub Repo 🗂️
 I reused my `ci-cd-practice` repo from Day 31 (github.com/ritesh355/ci-cd-practice), which has:
@@ -89,7 +89,6 @@ print(undefined_variable)  # Causes an error
 ## Why This Matters 🌟
 - This is my first automated CI pipeline, running a script on every push.
 - It connects to Day 34: CI automates code checks, and this is the first step.
-- Sets me up for Day 36, where I’ll add `flake8` (linting) and `pytest` (testing) to the workflow.
 
 ## Tips for Beginners 💡
 1. **Start Simple**: Use a basic script26 like mine to learn workflows.
