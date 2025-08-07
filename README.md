@@ -86,7 +86,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 
 ## 🔧 Tools I'm Learning
 
-<p align="center">
+<p align="left">
   <!-- DevOps & Cloud -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp;
@@ -103,7 +103,6 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
   &nbsp;
-
   <!-- Monitoring & Logging -->
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40" />
   &nbsp;
@@ -115,7 +114,6 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 
   <!-- Cloud Platforms -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="40" alt="AWS logo"/> &nbsp;
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" />
   &nbsp;
   <!-- Reverse Proxy, OS, IDE -->
@@ -123,8 +121,6 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
   &nbsp;
-
-  
 </p>
 
 
