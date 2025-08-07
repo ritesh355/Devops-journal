@@ -25,23 +25,21 @@ This repo contains:
 | Day 3 | Process management & system info | [DAY3](./Day3.md) |
 | Day 4 | Linux User And Group Management| [ DAY4](./day4.md) |
 | Day 5 | Bash Scripting | [DAY5](./Day5.md)|
-| Day 6 | Automatic System Health with bash | [DAY6](https://github.com/ritesh355/Devops-journal/tree/main/Day6)
-| Day 7 | Git Branching Merging and Conflict Resolution | [DAY7](https://github.com/ritesh355/Devops-journal/blob/main/Day7.md)
-| Day 8 | Mastering Github and pushing project publicly | [DAY8](https://github.com/ritesh355/Devops-journal/blob/main/Day8.md)
-| Day 9 | Archiving Compression and Backup Automation | [DAY9](https://github.com/ritesh355/Devops-journal/blob/main/Day9.md)
-| Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [DAY10](https://github.com/ritesh355/Devops-journal/blob/main/Day10.md)
-| Day 11 |Fixing Ghost Group| [DAY11]()https://github.com/ritesh355/Devops-journal/blob/main/day11%20(group%20fixing).md
+| Day 6 | Automatic System Health with bash | [DAY6](https://github.com/ritesh355/Devops-journal/tree/main/Day6)|
+| Day 7 | Git Branching Merging and Conflict Resolution | [DAY7](https://github.com/ritesh355/Devops-journal/blob/main/Day7.md)|
+| Day 8 | Mastering Github and pushing project publicly | [DAY8](https://github.com/ritesh355/Devops-journal/blob/main/Day8.md)|
+| Day 9 | Archiving Compression and Backup Automation | [DAY9](https://github.com/ritesh355/Devops-journal/blob/main/Day9.md)|
+| Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [DAY10](https://github.com/ritesh355/Devops-journal/blob/main/Day10.md)|
+| Day 11 |Fixing Ghost Group| [DAY11](https://github.com/ritesh355/Devops-journal/blob/main/day11%20(group%20fixing).md)
 | Day 12 |Systemd and Linux Services|[DAY12](https://github.com/ritesh355/Devops-journal/blob/main/Day12.md)
 | Day 13 |Crone job|[DAY13](https://github.com/ritesh355/Devops-journal/blob/main/Day13.md)|
 | Day 14 |Log  management and rotation|[DAY14](https://github.com/ritesh355/Devops-journal/blob/main/Day14_Log_Management_and_Rotation.mD)|
-| Day 15 |Network Configuratin and Troubleshooting in linux|[DAY15]()
-| Day 16 |Intro to Virtualization on windows using virtual box|[DAY16]()
+| Day 15 |Network Configuratin and Troubleshooting in linux|[DAY15](https://github.com/ritesh355/Devops-journal/blob/main/Day15.md)
+| Day 16 |Intro to Virtualization on windows using virtual box|[DAY16](https://github.com/ritesh355/Devops-journal/blob/main/Day16_Virtualization_Windows.md)
 | Day 17 |DevOps tools overview|[DAY17](https://github.com/ritesh355/Devops-journal/blob/main/Day17_DevOps_Tool_Overview.md)
 | Day 18 |Rivew + labday|[DAY18](https://github.com/ritesh355/Devops-journal/blob/main/Day18.md)
-| Day 19 |Build a local Git + Bash automation tool|[DAY19](
-https://github.com/ritesh355/Devops-journal/blob/main/day19.md)
-| Day 20 |Documents + Blog your learning|[DAY20](
-https://github.com/ritesh355/Devops-journal/blob/main/Day20.md)
+| Day 19 |Build a local Git + Bash automation tool|[DAY19](https://github.com/ritesh355/Devops-journal/blob/main/day19.md)
+| Day 20 |Documents + Blog your learning|[DAY20](https://github.com/ritesh355/Devops-journal/blob/main/Day20.md)
 | Day 21 |Docker basics|[DAY21](https://github.com/ritesh355/Devops-journal/blob/main/day%2021%20Docker%20Basic%20.md)
 | Day 22 |Docker basic command|[DAY22](https://github.com/ritesh355/Devops-journal/blob/main/Day22.Docker_basic%20commands.md)
 | Day 23 |what ia dockerfile|[DAY23](https://githm/ritesh355/Devops-journal/blob/main/DAY23.md.md)
