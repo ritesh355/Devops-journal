@@ -7,6 +7,9 @@ This repository is a **public documentation** of my day-by-day learning, hands-o
 
 > ⚡ _“Keep learning, keep building, and stay consistent!”_
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ritesh355.Devops-journal&left_color=gray&right_color=blue" alt="Visitor badge" />
+</p>
 
 ---
 ## 🔧 Tools I'm Learning
