@@ -100,6 +100,8 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" />
   &nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jirasoftware.svg" width="40" height="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
