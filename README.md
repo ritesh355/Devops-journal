@@ -32,8 +32,6 @@ This repo contains:
 | Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [DAY10](https://github.com/ritesh355/Devops-journal/blob/main/Day10.md)
 | Day 11 |Fixing Ghost Group| [DAY11]()https://github.com/ritesh355/Devops-journal/blob/main/day11%20(group%20fixing).md
 | Day 12 |Systemd and Linux Services|[DAY12](https://github.com/ritesh355/Devops-journal/blob/main/Day12.md)
-ub.com/ritesh355/Devops-journal/blob/main/Day15.md
-
 | Day 13 |Crone job|[DAY13](https://github.com/ritesh355/Devops-journal/blob/main/Day13.md)|
 | Day 14 |Log  management and rotation|[DAY14](https://github.com/ritesh355/Devops-journal/blob/main/Day14_Log_Management_and_Rotation.mD)|
 | Day 15 |Network Configuratin and Troubleshooting in linux|[DAY15]()
