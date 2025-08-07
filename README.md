@@ -96,9 +96,11 @@ This repo contains:
 
 ## 📅 Current Status
 
-- 🟩 Currently on: **Day 11**
-- 📖 Blog: [ritesh-devops.hashnode.dev](https://ritesh-devops.hashnode.dev)
-- 🔗 LinkedIn: [linkedin.com/in/ritesh-singh-092b84340](https://linkedin.com/in/ritesh-singh-092b84340)
+- 🟩 Currently on: **Day 32**
+  
+[![Hashnode Badge](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ritesh-devops.hashnode.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-singh-092b84340)
+
 
 ---
 
