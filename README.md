@@ -30,28 +30,28 @@ This repo contains:
 | Day 8 | Mastering Github and pushing project publicly | [Day8.md](https://github.com/ritesh355/Devops-journal/blob/main/Day8.md)
 | Day 9 | Archiving Compression and Backup Automation | [Day9.md](https://github.com/ritesh355/Devops-journal/blob/main/Day9.md)
 | Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [day10.md](https://github.com/ritesh355/Devops-journal/blob/main/Day10.md)
-| Day 11 |
-| Day 12 |
-| Day 13 |
-| Day 14 |
-| Day 15 |
-| Day 16 |
-| Day 17 |
-| Day 18 |
-| Day 19 |
-| Day 20 |
-| Day 21 |
-| Day 22 |
-| Day 23 |
-| Day 24 |
-| Day 25 |
-| Day 26 |
-| Day 27 |
-| Day 28 |
-| Day 29 |
-| Day 30 |
-| Day 31 |
-| Day 32 |
+| Day 11 |Fixing Ghost Group| [DAY11]()
+| Day 12 |Systemd and Linux Services|[DAY11]()
+| Day 13 |Crone job|[DAY11]()
+| Day 14 |Log  management and rotation|[DAY11]()
+| Day 15 |Network Configuratin and Troubleshooting in linux|[DAY11]()
+| Day 16 |Intro to Virtualization on windows using virtual box|[DAY11]()
+| Day 17 |DevOps tools overview|[DAY11]()
+| Day 18 |Rivew + labday|[DAY11]()
+| Day 19 |Build a local Git + Bash automation tool|[DAY11]()
+| Day 20 |Documents + Blog your learning|[DAY11]()
+| Day 21 |Docker basics|[DAY11]()
+| Day 22 |Docker basic command|[DAY11]()
+| Day 23 |what ia dockerfile|[DAY11]()
+| Day 24 |Docker images: The building block of container|[DAY11]()
+| Day 25 |Docker multi-stage builds--> explained with typescript node.js app|[DAY11]()
+| Day 26 |Dockerfile + Docker compose|[DAY11]()
+| Day 27 |Docker Networking|[DAY11]()
+| Day 28 |Docker Volume|[DAY11]()
+| Day 29 |Docker Compose|[DAY11]()
+| Day 30 |Weather App ( Dockerized flask + nginx) |[DAY11]()
+| Day 31 |CI/CD Concept --> continuous intigration, delivery and deployment|[DAY11]()
+| Day 32 |My first Github Action Workflow|[DAY11]()
 | Day 33 |
 | Day 34 |
 | Day 35 |
