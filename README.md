@@ -20,16 +20,16 @@ This repo contains:
 
 | Day | Topics Covered | Link |
 |-----|----------------|------|
-| Day 1 | Linux basics, touch vs echo, serving HTML | [Day1.md](./Day1.md) |
-| Day 2 | File permissions, Git basics, GitHub push | [Day2.md](./Day2(1).md) |
-| Day 3 | Process management & system info | [Devops-journal/Day3.md](./Day3.md) |
-| Day 4 | Linux User And Group Management| [ Day4.md ](./day4.md) |
-| Day 5 | Bash Scripting | [Day5.md](./Day5.md)|
-| Day 6 | Automatic System Health with bash | [Day6.md](https://github.com/ritesh355/Devops-journal/tree/main/Day6)
-| Day 7 | Git Branching Merging and Conflict Resolution | [Day7.md](https://github.com/ritesh355/Devops-journal/blob/main/Day7.md)
-| Day 8 | Mastering Github and pushing project publicly | [Day8.md](https://github.com/ritesh355/Devops-journal/blob/main/Day8.md)
-| Day 9 | Archiving Compression and Backup Automation | [Day9.md](https://github.com/ritesh355/Devops-journal/blob/main/Day9.md)
-| Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [day10.md](https://github.com/ritesh355/Devops-journal/blob/main/Day10.md)
+| Day 1 | Linux basics, touch vs echo, serving HTML | [DAY1](./Day1.md) |
+| Day 2 | File permissions, Git basics, GitHub push | [DAY2](./Day2(1).md) |
+| Day 3 | Process management & system info | [DAY3](./Day3.md) |
+| Day 4 | Linux User And Group Management| [ DAY4](./day4.md) |
+| Day 5 | Bash Scripting | [DAY5](./Day5.md)|
+| Day 6 | Automatic System Health with bash | [DAY6](https://github.com/ritesh355/Devops-journal/tree/main/Day6)
+| Day 7 | Git Branching Merging and Conflict Resolution | [DAY7](https://github.com/ritesh355/Devops-journal/blob/main/Day7.md)
+| Day 8 | Mastering Github and pushing project publicly | [DAY8](https://github.com/ritesh355/Devops-journal/blob/main/Day8.md)
+| Day 9 | Archiving Compression and Backup Automation | [DAY9](https://github.com/ritesh355/Devops-journal/blob/main/Day9.md)
+| Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [DAY10](https://github.com/ritesh355/Devops-journal/blob/main/Day10.md)
 | Day 11 |Fixing Ghost Group| [DAY11]()
 | Day 12 |Systemd and Linux Services|[DAY11]()
 | Day 13 |Crone job|[DAY11]()
