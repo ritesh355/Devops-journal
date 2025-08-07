@@ -10,15 +10,15 @@ This repository is a **public documentation** of my day-by-day learning, hands-o
 
 ---
 
-## 🚀 About This Repo
+## 📌 About This Repository
 
-I’ve committed to studying DevOps for 8–10 hours a day and sharing everything I learn in public.
+This repository is part of my **#100DaysOfDevOps** challenge where I learn and implement key DevOps concepts one day at a time. It includes:
 
-This repo contains:
-- ✅ Daily learning logs (`Day1.md`, `Day2.md`, ...)
-- ✅ Key commands, tools, and takeaways
-- ✅ Hands-on mini-projects and code snippets
-- ✅ Reflections and notes
+- 📘 Daily Logs & Learnings  
+- 🛠️ Hands-on Practice with Tools like Docker, GitHub Actions, etc.  
+- 🚀 Mini Projects to reinforce learning  
+- 📝 Links to my blogs and resources  
+
 
 ---
 
