@@ -30,28 +30,32 @@ This repo contains:
 | Day 8 | Mastering Github and pushing project publicly | [DAY8](https://github.com/ritesh355/Devops-journal/blob/main/Day8.md)
 | Day 9 | Archiving Compression and Backup Automation | [DAY9](https://github.com/ritesh355/Devops-journal/blob/main/Day9.md)
 | Day 10 | Mastering SSH ,Key Bashed Authentication ,And Remote access| [DAY10](https://github.com/ritesh355/Devops-journal/blob/main/Day10.md)
-| Day 11 |Fixing Ghost Group| [DAY11]()
-| Day 12 |Systemd and Linux Services|[DAY12]()
-| Day 13 |Crone job|[DAY13]()
-| Day 14 |Log  management and rotation|[DAY14]()
+| Day 11 |Fixing Ghost Group| [DAY11]()https://github.com/ritesh355/Devops-journal/blob/main/day11%20(group%20fixing).md
+| Day 12 |Systemd and Linux Services|[DAY12](https://github.com/ritesh355/Devops-journal/blob/main/Day12.md)
+ub.com/ritesh355/Devops-journal/blob/main/Day15.md
+
+| Day 13 |Crone job|[DAY13](https://github.com/ritesh355/Devops-journal/blob/main/Day13.md)|
+| Day 14 |Log  management and rotation|[DAY14](https://github.com/ritesh355/Devops-journal/blob/main/Day14_Log_Management_and_Rotation.mD)|
 | Day 15 |Network Configuratin and Troubleshooting in linux|[DAY15]()
 | Day 16 |Intro to Virtualization on windows using virtual box|[DAY16]()
-| Day 17 |DevOps tools overview|[DAY17]()
-| Day 18 |Rivew + labday|[DAY18]()
-| Day 19 |Build a local Git + Bash automation tool|[DAY19]()
-| Day 20 |Documents + Blog your learning|[DAY20]()
-| Day 21 |Docker basics|[DAY21]()
-| Day 22 |Docker basic command|[DAY22]()
-| Day 23 |what ia dockerfile|[DAY23]()
-| Day 24 |Docker images: The building block of container|[DAY24]()
-| Day 25 |Docker multi-stage builds--> explained with typescript node.js app|[DAY25]()
-| Day 26 |Dockerfile + Docker compose|[DAY26]()
-| Day 27 |Docker Networking|[DAY27]()
-| Day 28 |Docker Volume|[DAY28]()
-| Day 29 |Docker Compose|[DAY29]()
-| Day 30 |Weather App ( Dockerized flask + nginx) |[DAY30]()
-| Day 31 |CI/CD Concept --> continuous intigration, delivery and deployment|[DAY31]()
-| Day 32 |My first Github Action Workflow|[DAY32]()
+| Day 17 |DevOps tools overview|[DAY17](https://github.com/ritesh355/Devops-journal/blob/main/Day17_DevOps_Tool_Overview.md)
+| Day 18 |Rivew + labday|[DAY18](https://github.com/ritesh355/Devops-journal/blob/main/Day18.md)
+| Day 19 |Build a local Git + Bash automation tool|[DAY19](
+https://github.com/ritesh355/Devops-journal/blob/main/day19.md)
+| Day 20 |Documents + Blog your learning|[DAY20](
+https://github.com/ritesh355/Devops-journal/blob/main/Day20.md)
+| Day 21 |Docker basics|[DAY21](https://github.com/ritesh355/Devops-journal/blob/main/day%2021%20Docker%20Basic%20.md)
+| Day 22 |Docker basic command|[DAY22](https://github.com/ritesh355/Devops-journal/blob/main/Day22.Docker_basic%20commands.md)
+| Day 23 |what ia dockerfile|[DAY23](https://githm/ritesh355/Devops-journal/blob/main/DAY23.md.md)
+| Day 24 |Docker images: The building block of container|[DAY24](https://github.com/ritesh355/Devops-journal/blob/main/DAY24.md)
+| Day 25 |Docker multi-stage builds--> explained with typescript node.js app|[DAY25](https://github.com/ritesh355/Devops-journal/blob/main/DAY25.md)                                                        
+| Day 26 |Dockerfile + Docker compose|[DAY26](https://github.com/ritesh355/Devops-journal/blob/main/day26.md)
+| Day 27 |Docker Networking|[DAY27](https://github.com/ritesh355/Devops-journal/blob/main/DAY27(networking%20).md)
+| Day 28 |Docker Volume|[DAY28](https://github.com/ritesh355/Devops-journal/blob/main/DAY28.md)
+| Day 29 |Docker Compose|[DAY29](https://github.com/ritesh355/Devops-journal/blob/main/DAY29(docker%20compose).markdown)
+| Day 30 |Weather App ( Dockerized flask + nginx) |[DAY30](https://github.com/ritesh355/Devops-journal/blob/main/DAY30.md)
+| Day 31 |CI/CD Concept --> continuous intigration, delivery and deployment|[DAY31](https://github.com/ritesh355/Devops-journal/blob/main/DAY31.md)
+| Day 32 |My first Github Action Workflow|[DAY32](https://github.com/ritesh355/Devops-journal/blob/main/DAY32.md)
 | Day 33 |
 | Day 34 |
 | Day 35 |
