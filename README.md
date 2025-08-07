@@ -117,8 +117,6 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
   <!-- Reverse Proxy, OS, IDE -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
   &nbsp;
 
@@ -127,11 +125,10 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
   &nbsp;
 
   <!-- Cloud Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" title="AWS" />
-  &nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Microsoft Azure" />
+
 </p>
 
 
