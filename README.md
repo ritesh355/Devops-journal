@@ -1,6 +1,12 @@
 # 📘 DevOps Journal by Ritesh
 
-Welcome to my **public DevOps learning journal** — a daily log of what I'm learning, building, and practicing on my journey to becoming a DevOps Engineer.
+### 🚀 100 Days of DevOps: My DevOps Learning Journey
+
+Welcome to my **100 Days of DevOps Journal**!  
+This repository is a **public documentation** of my day-by-day learning, hands-on practice, and projects as I aim to master the DevOps ecosystem.
+
+> ⚡ _“Keep learning, keep building, and stay consistent!”_
+
 
 ---
 
