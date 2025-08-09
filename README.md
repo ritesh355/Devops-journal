@@ -97,7 +97,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 32 |My first Github Action Workflow|[DAY32](https://github.com/ritesh355/Devops-journal/blob/main/DAY32.md)
 | Day 33 |
 | Day 34 |
-| Day 35 |Adding Linting and Unit Tests to My GitHub Actions Workflow|
+| Day 35 |Adding Linting and Unit Tests to My GitHub Actions Workflow|[DAY35](https://github.com/ritesh355/Devops-journal/blob/main/DAY35.md)
 | Day 36 |
 | Day 37 |
 | Day 38 |
