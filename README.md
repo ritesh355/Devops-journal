@@ -95,8 +95,8 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 30 |Weather App ( Dockerized flask + nginx) |[DAY30](https://github.com/ritesh355/Devops-journal/blob/main/DAY30.md)
 | Day 31 |CI/CD Concept --> continuous intigration, delivery and deployment|[DAY31](https://github.com/ritesh355/Devops-journal/blob/main/DAY31.md)
 | Day 32 |My first Github Action Workflow|[DAY32](https://github.com/ritesh355/Devops-journal/blob/main/DAY32.md)
-| Day 33 |
-| Day 34 |
+| Day 33 |Linting and Unit Tests to My GitHub Actions| [DAY33](https://github.com/ritesh355/Devops-journal/blob/main/DAY33.md)
+| Day 34 | Exploring GitHub Actions Triggers 🚀|[DAY34](https://github.com/ritesh355/Devops-journal/blob/main/DAY34.md)
 | Day 35 |Adding Linting and Unit Tests to My GitHub Actions Workflow|[DAY35](https://github.com/ritesh355/Devops-journal/blob/main/DAY35.md)
 | Day 36 |Automating Docker Builds with GitHub Actions| [DAY36](https://github.com/ritesh355/Devops-journal/blob/main/Day36.md)
 | Day 37 |GitHub Actions – Matrix Builds with Node.js + Jest  |[DAY37](https://github.com/ritesh355/Devops-journal/blob/main/DAY37.md)
