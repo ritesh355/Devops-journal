@@ -3,11 +3,6 @@
 
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=800&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Singh" alt="Typing Name Once" style="background-color:#0A4D68; border-radius: 10px;" />
-</p>
-
----
 
 
 ## 💼 About Me  
@@ -56,12 +51,12 @@
 </p>
 
 ---
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&center=true&vCenter=true&color=00BFFF&width=900&lines=⚡+Keep+learning,+keep+building,+stay+consistent;🚀+Every+commit+is+a+step+forward;💡+Never+stop+automating,+never+stop+learning" alt="Typing animation quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=⚡+Keep+learning,+keep+building,+stay+consistent;🚀+Every+commit+is+a+step+forward;💡+Never+stop+automating,+never+stop+learning" alt="Typing animation banner" />
 </p>
+
+
+
 
 
 ## 📌 About This Repository
