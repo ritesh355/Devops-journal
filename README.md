@@ -52,8 +52,11 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=⚡+Keep+learning,+keep+building,+stay+consistent;🚀+Every+commit+is+a+step+forward;💡+Never+stop+automating,+never+stop+learning" alt="Typing animation banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=9999999&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=⚡+Keep+learning,+keep+building,+stay+consistent" alt="Typing animation banner" />
 </p>
+
+
+---
 
 
 
