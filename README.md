@@ -3,20 +3,11 @@
 
 
 ---
-<!-- Banner background -->
-<!-- Profile Banner Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4D68&height=200&section=header&text=Hi%20👋,%20I'm%20Ritesh%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Profile Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=800&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Singh" alt="Typing Name Once" style="background-color:#0A4D68; border-radius: 10px;" />
 </p>
-
-<!-- One-time Name Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=9999999&color=000000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Singh" alt="Typing Name Once" onerror="this.style.display='none'" />
-</p>
-
 
 ---
-
 
 
 ## 💼 About Me  
