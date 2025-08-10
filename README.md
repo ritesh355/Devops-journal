@@ -99,7 +99,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 34 |
 | Day 35 |Adding Linting and Unit Tests to My GitHub Actions Workflow|[DAY35](https://github.com/ritesh355/Devops-journal/blob/main/DAY35.md)
 | Day 36 |Automating Docker Builds with GitHub Actions| [DAY36](https://github.com/ritesh355/Devops-journal/blob/main/Day36.md)
-| Day 37 |[DAY37](https://github.com/ritesh355/Devops-journal/blob/main/DAY37.md)
+| Day 37 |GitHub Actions – Matrix Builds with Node.js + Jest  |[DAY37](https://github.com/ritesh355/Devops-journal/blob/main/DAY37.md)
 | Day 38 |GitHub Actions Caching Strategies – Speed Up Your CI/CD|[DAY38](https://github.com/ritesh355/Devops-journal/blob/main/DAY38.md)
 | Day 39 |GitHub Actions – Docker Layer Caching|[DAY39](https://github.com/ritesh355/Devops-journal/blob/main/DAY39.md)
 | Day 40 |CI/CD with Flask + Docker + GitHub Actions |[DAY40](https://github.com/ritesh355/Devops-journal/blob/main/DAY40.md)
