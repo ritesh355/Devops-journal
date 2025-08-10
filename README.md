@@ -1,7 +1,6 @@
+<!-- Profile Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=0E75B6&width=900&lines=Hi%2C+I'm+Ritesh+Singh+👋;Cloud+%26+DevOps+Engineer+🚀;AWS+|+Docker+|+Terraform+|+CI%2FCD+Pipelines;Automation+%26+Open+Source+Enthusiast" alt="Typing SVG Header" />
-</p>
 
 ---
 
