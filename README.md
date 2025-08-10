@@ -60,9 +60,12 @@
 ![motto](https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=39FF14&animation=fadeIn&fontAlignY=35)
 
 ---
+![motto](https://capsule-render.vercel.app/api?type=waving&color=6A00F4&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=FF61A6&animation=fadeIn&fontAlignY=35)
 
+---
+![motto](https://capsule-render.vercel.app/api?type=waving&color=1F3B73&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=00E6FF&animation=fadeIn&fontAlignY=35)
 
-
+---
 
 
 ## 📌 About This Repository
