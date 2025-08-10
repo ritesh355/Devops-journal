@@ -100,7 +100,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 35 |Adding Linting and Unit Tests to My GitHub Actions Workflow|[DAY35](https://github.com/ritesh355/Devops-journal/blob/main/DAY35.md)
 | Day 36 |Automating Docker Builds with GitHub Actions| [DAY36]()
 | Day 37 |
-| Day 38 |
+| Day 38 |GitHub Actions Caching Strategies – Speed Up Your CI/CD|[DAY38]()
 | Day 39 |
 | Day 40 |
 | Day 41 |
