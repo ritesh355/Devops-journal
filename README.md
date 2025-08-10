@@ -1,52 +1,63 @@
-# 📘 DevOps Journal by Ritesh
 
-### 🚀 100 Days of DevOps: My DevOps Learning Journey
-
-Welcome to my **100 Days of DevOps Journal**!  
-This repository is a **public documentation** of my day-by-day learning, hands-on practice, and projects as I aim to master the DevOps ecosystem.
-
-> ⚡ _“Keep learning, keep building, and stay consistent!”_
-
----
-## 🔧 Tools I'm Learning
-
+<!-- Profile Header -->
 <p align="center">
-  <!-- DevOps & Cloud -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" />&nbsp;
-  <!-- Version Control & CI/CD -->
-
-  <!-- Configuration & Infrastructure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
-  &nbsp;
-  <!-- Monitoring & Logging -->
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" />
-  &nbsp;
-  <!-- Project Management -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" width="40" height="40" title="Jira" />
-  &nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" />
-  &nbsp;
-  <!-- Cloud Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="40" alt="AWS logo"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" />
-  &nbsp;
- 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=0E75B6&width=900&lines=👋+Hi,+I'm+Ritesh+Singh;🚀+Cloud+%26+DevOps+Engineer;☁️+AWS+|+Docker+|+Terraform+|+CI%2FCD+Pipelines;❤️+Automation+%26+Open+Source" alt="Typing Banner" />
 </p>
 
 ---
+
+## 💼 About Me  
+**Aspiring Cloud & DevOps Engineer** skilled in **AWS ☁️**, **Docker 🐳**, **Terraform ⚙️**, and **CI/CD 🚀**  
+📍 Passionate about automation, scalability, and building production-ready cloud solutions.  
+💡 Currently on a **100 Days of DevOps** journey — documenting my progress and sharing knowledge.
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Profile Visitor Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📖 100 Days of DevOps Journey  
+Documenting my learnings, tools, and projects in my **[DevOps Journal Repository](https://github.com/ritesh355/DevOps-Journal)**.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&center=true&vCenter=true&color=00BFFF&width=900&lines=⚡+Keep+learning,+keep+building,+stay+consistent;🚀+Every+commit+is+a+step+forward;💡+Never+stop+automating,+never+stop+learning" alt="Typing animation quote" />
+</p>
 
 
 ## 📌 About This Repository
