@@ -51,10 +51,9 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=9999999&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=⚡+Keep+learning,+keep+building,+stay+consistent" alt="Typing animation banner" />
-</p>
 
+<!-- Motto Banner -->
+![motto](https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ---
 
