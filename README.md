@@ -101,7 +101,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 36 |Automating Docker Builds with GitHub Actions| [DAY36]()
 | Day 37 |
 | Day 38 |GitHub Actions Caching Strategies – Speed Up Your CI/CD|[DAY38]()
-| Day 39 |
+| Day 39 |GitHub Actions – Docker Layer Caching|[DAY39]()
 | Day 40 |
 | Day 41 |
 | Day 42 |
