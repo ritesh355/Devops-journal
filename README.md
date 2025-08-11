@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Hi, I'm Ritesh Singh 🚀" />
-</p>
+
 
 ---
 
