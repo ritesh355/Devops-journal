@@ -29,10 +29,16 @@
   <rect width="1200" height="300" fill="url(#bg)"/>
   <rect width="1200" height="300" fill="url(#dots)"/>
 
-  <!-- top soft glow -->
-  <ellipse cx="600" cy="40" rx="520" ry="90" fill="#0be" opacity="0.03"/>
+  <!-- Top animated wave -->
+  <path fill="#ffffff20">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,50 C300,150 900,-50 1200,50 L1200,0 L0,0 Z;
+        M0,70 C300,100 900,0 1200,30 L1200,0 L0,0 Z;
+        M0,50 C300,150 900,-50 1200,50 L1200,0 L0,0 Z" />
+  </path>
 
-  <!-- main neon text (halo + core) -->
+  <!-- main neon text -->
   <g transform="translate(0,70)">
     <!-- halo -->
     <g filter="url(#neonBlur)">
@@ -65,6 +71,12 @@
     Ritesh Singh - Aspiring Cloud and DevOps Engineer | AWS, Docker, Terraform, CI/CD
   </text>
 
-  <!-- bottom accent bar -->
-  <rect x="0" y="246" width="1200" height="6" fill="rgba(255,107,166,0.12)"/>
+  <!-- Bottom animated wave -->
+  <path fill="#ffffff20" transform="translate(0,250)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,50 C300,150 900,-50 1200,50 L1200,0 L0,0 Z;
+        M0,70 C300,100 900,0 1200,30 L1200,0 L0,0 Z;
+        M0,50 C300,150 900,-50 1200,50 L1200,0 L0,0 Z" />
+  </path>
 </svg>
