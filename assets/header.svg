@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" preserveAspectRatio="xMidYMid slice">
   <defs>
-    <!-- Background gradient: Sky Blue to Pink -->
+    <!-- Background gradient: Deep Indigo to Electric Blue -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#87CEEB"/>  <!-- Sky Blue -->
-      <stop offset="100%" stop-color="#FF69B4"/> <!-- Pink -->
+      <stop offset="0%" stop-color="#1A1A40"/>
+      <stop offset="100%" stop-color="#00BFFF"/>
     </linearGradient>
 
     <!-- Neon glow effect -->
@@ -21,7 +21,7 @@
   <rect width="1200" height="200" fill="url(#bg)"/>
 
   <!-- Top animated wave -->
-  <path fill="#FFFFFF40">
+  <path fill="#B0E0E680">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="
         M0,40 C300,100 900,-40 1200,40 L1200,0 L0,0 Z;
@@ -34,13 +34,13 @@
     <text x="50%" y="120" text-anchor="middle"
           font-family="Inter, Roboto, Arial, sans-serif"
           font-size="40" font-weight="700"
-          fill="#FF69B4"> <!-- Pink -->
+          fill="#FF5E78">
       Hi, I'm Ritesh Singh 🚀
     </text>
   </g>
 
   <!-- Bottom animated wave -->
-  <path fill="#FFFFFF40" transform="translate(0,160)">
+  <path fill="#B0E0E680" transform="translate(0,160)">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="
         M0,40 C300,100 900,-40 1200,40 L1200,0 L0,0 Z;
