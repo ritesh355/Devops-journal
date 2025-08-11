@@ -25,15 +25,18 @@
         M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z" />
   </path>
 
-  <!-- main neon text -->
+  <!-- main neon text with pulsating glow -->
   <g transform="translate(0,70)">
+    <!-- glow layer -->
     <g filter="url(#neonBlur)">
       <text x="50%" y="75" text-anchor="middle"
             font-family="Inter, Roboto, Arial, sans-serif"
-            font-weight="800" font-size="50" fill="#FF5E78">
+            font-weight="800" font-size="50" fill="#FF5E78" opacity="0.9">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite" />
         Hi, I'm Ritesh🚀
       </text>
     </g>
+    <!-- crisp text -->
     <text x="50%" y="75" text-anchor="middle"
           font-family="Inter, Roboto, Arial, sans-serif"
           font-weight="800" font-size="50" fill="#FF5E78">
