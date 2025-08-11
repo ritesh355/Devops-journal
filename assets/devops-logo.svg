@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" preserveAspectRatio="xMidYMid meet">
   <defs>
     <!-- Animated gradient -->
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -13,7 +13,7 @@
       </stop>
     </linearGradient>
 
-    <!-- Stronger neon glow -->
+    <!-- Neon glow -->
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="8" result="blur"/>
       <feMerge>
@@ -27,51 +27,27 @@
   <!-- Transparent background -->
   <rect width="100%" height="100%" fill="transparent"/>
 
-  <!-- Gentle floating animation -->
-  <g transform="translate(400,200)">
+  <!-- Floating animation -->
+  <g transform="translate(200,200)">
     <animateTransform attributeName="transform"
                       attributeType="XML"
                       type="translate"
-                      values="400,200; 400,190; 400,200; 400,210; 400,200"
+                      values="200,200; 200,190; 200,200; 200,210; 200,200"
                       dur="6s"
                       repeatCount="indefinite"/>
 
-    <!-- Left loop -->
-    <g transform="translate(-160,0)">
-      <path d="M -150,0
-               C -230,-90 -230,90 -150,0
-               C -70,-90 -70,90 -150,0 Z"
-            fill="none"
-            stroke="url(#g1)"
-            stroke-width="26"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            filter="url(#glow)"/>
-    </g>
-
-    <!-- Right loop -->
-    <g transform="translate(160,0)">
-      <path d="M 150,0
-               C 230,-90 230,90 150,0
-               C 70,-90 70,90 150,0 Z"
-            fill="none"
-            stroke="url(#g1)"
-            stroke-width="26"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            filter="url(#glow)"/>
-    </g>
-
-    <!-- Middle connector -->
-    <path d="M -50,0 C -20,0 20,0 50,0"
+    <!-- Single loop -->
+    <path d="M -100,0
+             C -180,-90 -180,90 -100,0
+             C -20,-90 -20,90 -100,0 Z"
           fill="none"
           stroke="url(#g1)"
           stroke-width="26"
           stroke-linecap="round"
+          stroke-linejoin="round"
           filter="url(#glow)"/>
 
-    <!-- Inner highlight dots -->
-    <circle cx="-150" cy="0" r="8" fill="#ffffff" opacity="0.95"/>
-    <circle cx="150" cy="0" r="8" fill="#ffffff" opacity="0.95"/>
+    <!-- Highlight dot -->
+    <circle cx="-100" cy="0" r="8" fill="#ffffff" opacity="0.95"/>
   </g>
 </svg>
