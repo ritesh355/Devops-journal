@@ -34,8 +34,6 @@
   <g transform="translate(450,90) scale(0.8)">
     <path d="M60,40 C20,0 20,80 60,40 C100,0 100,80 60,40 Z"
           fill="none" stroke="url(#devopsGrad)" stroke-width="8" stroke-linecap="round" />
-    <path d="M140,40 C180,0 180,80 140,40 C100,0 100,80 140,40 Z"
-          fill="none" stroke="url(#devopsGrad)" stroke-width="8" stroke-linecap="round" />
   </g>
 
   <!-- Main Text -->
