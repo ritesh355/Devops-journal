@@ -64,13 +64,6 @@
     </text>
   </g>
 
-  <!-- subtitle -->
-  <text x="50%" y="190" text-anchor="middle"
-        font-family="Inter, Roboto, Arial, sans-serif"
-        font-weight="500" font-size="16" fill="#CDEBF6" opacity="0.95">
-    Ritesh Singh - Aspiring Cloud and DevOps Engineer | AWS, Docker, Terraform, CI/CD
-  </text>
-
   <!-- Bottom animated wave -->
   <path fill="#ffffff20" transform="translate(0,250)">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
