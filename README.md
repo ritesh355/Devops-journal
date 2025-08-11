@@ -57,11 +57,7 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=FF69B4&animation=fadeIn&fontAlignY=35" alt="Motto Banner" />
-</p>
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ritesh355/Devops-journal/main/assets/banner.svg" alt="Ritesh Singh Motto Banner" />
+  <img src="https://raw.githubusercontent.com/ritesh355/Devops-journal/main/assets/banner.svg" alt="Ritesh Singh - Motto Banner" />
 </p>
 
 ---
