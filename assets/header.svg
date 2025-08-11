@@ -1,51 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" preserveAspectRatio="xMidYMid slice">
   <defs>
-    <!-- Background gradient -->
+    <!-- background gradient -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1A1A40"/>
-      <stop offset="100%" stop-color="#00BFFF"/>
+      <stop offset="0%" stop-color="#87CEEB"/>
+      <stop offset="60%" stop-color="#0A4D68"/>
+      <stop offset="100%" stop-color="#000428"/>
     </linearGradient>
 
-    <!-- Text glow -->
+    <!-- neon blur filter -->
     <filter id="neonBlur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
       <feMerge>
+        <feMergeNode in="coloredBlur"/>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- DevOps gradient (kept in case needed for other elements) -->
-    <linearGradient id="devopsGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FF5E78">
-        <animate attributeName="stop-color" values="#FF5E78;#00BFFF;#FF5E78" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#00BFFF">
-        <animate attributeName="stop-color" values="#00BFFF;#FF5E78;#00BFFF" dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
+    <!-- subtle noise pattern -->
+    <pattern id="dots" patternUnits="userSpaceOnUse" width="6" height="6">
+      <rect width="6" height="6" fill="transparent"/>
+      <circle cx="1" cy="1" r="0.5" fill="rgba(255,255,255,0.02)"/>
+    </pattern>
   </defs>
 
-  <!-- Background -->
+  <!-- background -->
   <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect width="1200" height="200" fill="url(#dots)"/>
 
-  <!-- Main Text -->
-  <g filter="url(#neonBlur)">
-    <text x="50%" y="120" text-anchor="middle"
+  <!-- Top animated wave -->
+  <path fill="#ffffff20">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z;
+        M0,60 C200,130 900,-30 1200,60 L1200,0 L0,0 Z;
+        M0,40 C200,170 900,-70 1200,40 L1200,0 L0,0 Z;
+        M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z" />
+  </path>
+
+  <!-- main neon text -->
+  <g transform="translate(0,70)">
+    <!-- halo -->
+    <g filter="url(#neonBlur)">
+      <text x="50%" y="75" text-anchor="middle"
+            font-family="Inter, Roboto, Arial, sans-serif"
+            font-weight="700" font-size="50" fill="#00E5FF" opacity="0.9">
+        Hi, I'm Ritesh Singh
+      </text>
+    </g>
+
+    <!-- main crisp layer -->
+    <text x="50%" y="75" text-anchor="middle"
           font-family="Inter, Roboto, Arial, sans-serif"
-          font-size="40" font-weight="700"
-          fill="#FF5E78">
-      Hi, I'm Ritesh Singh 🚀
+          font-weight="800" font-size="50" fill="#E0FFFF" letter-spacing="0.5">
+      Hi, I'm Ritesh Singh
+    </text>
+
+    <!-- subtle bright core -->
+    <text x="50%" y="75" text-anchor="middle"
+          font-family="Inter, Roboto, Arial, sans-serif"
+          font-weight="900" font-size="50" fill="#FFFFFF" opacity="0.15">
+      Hi, I'm Ritesh Singh
     </text>
   </g>
 
   <!-- Bottom animated wave -->
-  <path fill="#B0E0E680" transform="translate(0,160)">
+  <path fill="#ffffff20" transform="translate(0,160)">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="
-        M0,40 C300,100 900,-40 1200,40 L1200,0 L0,0 Z;
-        M0,60 C300,80 900,0 1200,20 L1200,0 L0,0 Z;
-        M0,40 C300,100 900,-40 1200,40 L1200,0 L0,0 Z" />
+        M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z;
+        M0,60 C200,130 900,-30 1200,60 L1200,0 L0,0 Z;
+        M0,40 C200,170 900,-70 1200,40 L1200,0 L0,0 Z;
+        M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z" />
   </path>
 </svg>
