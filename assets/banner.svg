@@ -34,7 +34,8 @@
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="
         M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z;
-        M0,70 C200,100 900,0 1200,30 L1200,0 L0,0 Z;
+        M0,60 C200,130 900,-30 1200,60 L1200,0 L0,0 Z;
+        M0,40 C200,170 900,-70 1200,40 L1200,0 L0,0 Z;
         M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z" />
   </path>
 
@@ -65,11 +66,12 @@
   </g>
 
   <!-- Bottom animated wave -->
-  <path fill="#ffffff20" transform="translate(0,250)">
+  <path fill="#ffffff20" transform="translate(0,160)">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="
         M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z;
-        M0,70 C200,100 900,0 1200,30 L1200,0 L0,0 Z;
+        M0,60 C200,130 900,-30 1200,60 L1200,0 L0,0 Z;
+        M0,40 C200,170 900,-70 1200,40 L1200,0 L0,0 Z;
         M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z" />
   </path>
 </svg>
