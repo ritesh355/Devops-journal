@@ -51,8 +51,9 @@
 </p>
 
 ---
+<!-- Motto Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ritesh355/Devops-journal/main/assets/banner.svg" alt="Ritesh Singh - Motto Banner" />
+  <img src="./assets/banner.svg" alt="⚡ Keep learning, keep building, stay consistent" />
 </p>
 
 ---
