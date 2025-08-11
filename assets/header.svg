@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" preserveAspectRatio="xMidYMid slice">
   <defs>
-    <!-- background gradient -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#87CEEB"/>
-      <stop offset="60%" stop-color="#0A4D68"/>
-      <stop offset="100%" stop-color="#000428"/>
-    </linearGradient>
-
     <!-- neon blur filter -->
     <filter id="neonBlur" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
@@ -17,17 +10,10 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
-    <!-- subtle noise pattern -->
-    <pattern id="dots" patternUnits="userSpaceOnUse" width="6" height="6">
-      <rect width="6" height="6" fill="transparent"/>
-      <circle cx="1" cy="1" r="0.5" fill="rgba(255,255,255,0.02)"/>
-    </pattern>
   </defs>
 
-  <!-- background -->
-  <rect width="1200" height="200" fill="url(#bg)"/>
-  <rect width="1200" height="200" fill="url(#dots)"/>
+  <!-- solid background -->
+  <rect width="1200" height="200" fill="#00B5E2"/>
 
   <!-- Top animated wave -->
   <path fill="#ffffff20">
@@ -39,29 +25,22 @@
         M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z" />
   </path>
 
-  <!-- main neon text -->
+  <!-- main neon text with pulsating glow -->
   <g transform="translate(0,70)">
-    <!-- halo -->
+    <!-- glow layer -->
     <g filter="url(#neonBlur)">
       <text x="50%" y="75" text-anchor="middle"
             font-family="Inter, Roboto, Arial, sans-serif"
-            font-weight="700" font-size="50" fill="#00E5FF" opacity="0.9">
-        Hi, I'm Ritesh Singh
+            font-weight="800" font-size="50" fill="#FF5E78" opacity="0.9">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite" />
+        Hi, I'm Ritesh🚀
       </text>
     </g>
-
-    <!-- main crisp layer -->
+    <!-- crisp text -->
     <text x="50%" y="75" text-anchor="middle"
           font-family="Inter, Roboto, Arial, sans-serif"
-          font-weight="800" font-size="50" fill="#E0FFFF" letter-spacing="0.5">
-      Hi, I'm Ritesh Singh
-    </text>
-
-    <!-- subtle bright core -->
-    <text x="50%" y="75" text-anchor="middle"
-          font-family="Inter, Roboto, Arial, sans-serif"
-          font-weight="900" font-size="50" fill="#FFFFFF" opacity="0.15">
-      Hi, I'm Ritesh Singh
+          font-weight="800" font-size="50" fill="#FF5E78">
+      Hi, I'm Ritesh🚀
     </text>
   </g>
 
