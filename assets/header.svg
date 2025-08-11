@@ -16,7 +16,7 @@
       </feMerge>
     </filter>
 
-    <!-- DevOps gradient -->
+    <!-- DevOps gradient (kept in case needed for other elements) -->
     <linearGradient id="devopsGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#FF5E78">
         <animate attributeName="stop-color" values="#FF5E78;#00BFFF;#FF5E78" dur="6s" repeatCount="indefinite" />
@@ -29,12 +29,6 @@
 
   <!-- Background -->
   <rect width="1200" height="200" fill="url(#bg)"/>
-
-  <!-- DevOps Infinity Logo -->
-  <g transform="translate(450,90) scale(0.8)">
-    <path d="M60,40 C20,0 20,80 60,40 C100,0 100,80 60,40 Z"
-          fill="none" stroke="url(#devopsGrad)" stroke-width="8" stroke-linecap="round" />
-  </g>
 
   <!-- Main Text -->
   <g filter="url(#neonBlur)">
