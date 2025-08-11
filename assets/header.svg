@@ -20,15 +20,6 @@
   <!-- Background -->
   <rect width="1200" height="300" fill="url(#bg)"/>
 
-  <!-- Top animated wave -->
-  <path fill="#B0E0E680">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="
-        M0,40 C300,100 900,-40 1200,40 L1200,0 L0,0 Z;
-        M0,60 C300,80 900,0 1200,20 L1200,0 L0,0 Z;
-        M0,40 C300,100 900,-40 1200,40 L1200,0 L0,0 Z" />
-  </path>
-
   <!-- Main Text -->
   <g filter="url(#neonBlur)">
     <text x="50%" y="120" text-anchor="middle"
