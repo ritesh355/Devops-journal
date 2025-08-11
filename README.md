@@ -56,17 +56,19 @@
 ![motto](https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ---
-
-![motto](https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=39FF14&animation=fadeIn&fontAlignY=35)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=FF69B4&animation=fadeIn&fontAlignY=35" alt="Motto Banner" />
+</p>
 ---
-![motto](https://capsule-render.vercel.app/api?type=waving&color=6A00F4&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=FF61A6&animation=fadeIn&fontAlignY=35)
-
----
-![motto](https://capsule-render.vercel.app/api?type=waving&color=1F3B73&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=00E6FF&animation=fadeIn&fontAlignY=35)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB,ADD8E6&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=FF69B4,FFC0CB&animation=fadeIn&fontAlignY=35" alt="Motto Banner" />
+</p>
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4D68,000428&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=32&fontColor=FF69B4,FFB6C1&animation=fadeIn&fontAlignY=35" alt="Motto Banner" />
+</p>
+---
 
 ## 📌 About This Repository
 
