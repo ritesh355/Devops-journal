@@ -50,13 +50,6 @@
 💡 Currently on a **100 Days of DevOps** journey — documenting my progress and sharing knowledge.
 
 ---
-<!-- Motto Banner -->
-<p align="center">
-  <img src="./assets/banner.svg" alt="⚡ Keep learning, keep building, stay consistent" />
-</p>
-
----
-
 
 ## 📌 About This Repository
 
@@ -66,6 +59,13 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 - 🛠️ Hands-on Practice with Tools like Docker, GitHub Actions, etc.  
 - 🚀 Mini Projects to reinforce learning  
 - 📝 Links to my blogs and resources  
+---
+
+<!-- Motto Banner -->
+<p align="center">
+  <img src="./assets/banner.svg" alt="⚡ Keep learning, keep building, stay consistent" />
+</p>
+
 ---
 
 ## 🗂️ Table of Contents
