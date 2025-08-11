@@ -43,6 +43,8 @@
  
 </p>
 
+---
+
 ## 🐳 Docker Hub
 <p align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Total%20Docker%20Pulls-190-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Total Docker Pulls" />
