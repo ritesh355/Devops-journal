@@ -1,76 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid slice">
-  <!-- Background gradient -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice">
   <defs>
+    <!-- background gradient -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0A4D68"/>
-      <stop offset="60%" stop-color="#000428"/>
-      <stop offset="100%" stop-color="#020617"/>
+      <stop offset="0%" stop-color="#87CEEB"/>
+      <stop offset="60%" stop-color="#0A4D68"/>
+      <stop offset="100%" stop-color="#000428"/>
     </linearGradient>
 
-    <!-- neon glow filter -->
-    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
+    <!-- neon blur filter -->
+    <filter id="neonBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
       <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <!-- pink soft glow for outer halo -->
-    <filter id="halo" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="16" result="g1"/>
-      <feMerge>
-        <feMergeNode in="g1"/>
-        <feMergeNode in="g1"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- subtle noise texture (optional, keeps it premium without large files) -->
+    <!-- subtle noise pattern -->
     <pattern id="dots" patternUnits="userSpaceOnUse" width="6" height="6">
       <rect width="6" height="6" fill="transparent"/>
-      <circle cx="1" cy="1" r="0.6" fill="rgba(255,255,255,0.02)"/>
+      <circle cx="1" cy="1" r="0.5" fill="rgba(255,255,255,0.02)"/>
     </pattern>
   </defs>
 
   <!-- background -->
-  <rect width="1200" height="260" fill="url(#bg)"/>
-  <rect width="1200" height="260" fill="url(#dots)"/>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
 
-  <!-- soft top glow -->
-  <ellipse cx="600" cy="40" rx="520" ry="80" fill="#0be" opacity="0.04"/>
+  <!-- top soft glow -->
+  <ellipse cx="600" cy="40" rx="520" ry="90" fill="#0be" opacity="0.03"/>
 
-  <!-- neon text shadow (halo) -->
-  <g transform="translate(0,80)">
-    <g filter="url(#halo)">
-      <text x="50%" y="70" text-anchor="middle" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif"
-            font-weight="700" font-size="48" fill="#FF69B4" opacity="0.85">⚡ Keep learning, keep building, stay consistent</text>
-    </g>
-
-    <!-- main neon text with inner glow -->
-    <g filter="url(#neon)">
-      <text x="50%" y="70" text-anchor="middle" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif"
-            font-weight="800" font-size="48" fill="#FF9CC9" letter-spacing="0.5">
+  <!-- main neon text (halo + core) -->
+  <g transform="translate(0,70)">
+    <!-- halo -->
+    <g filter="url(#neonBlur)">
+      <text x="50%" y="75" text-anchor="middle"
+            font-family="Inter, Roboto, Arial, sans-serif"
+            font-weight="700" font-size="44" fill="#FF6BA6" opacity="0.9">
         ⚡ Keep learning, keep building, stay consistent
       </text>
     </g>
 
-    <!-- bright core for crisp center -->
-    <text x="50%" y="70" text-anchor="middle" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif"
-          font-weight="900" font-size="48" fill="#FFFFFF" opacity="0.14" letter-spacing="0.5">
+    <!-- main crisp layer -->
+    <text x="50%" y="75" text-anchor="middle"
+          font-family="Inter, Roboto, Arial, sans-serif"
+          font-weight="800" font-size="44" fill="#FFD1E6" letter-spacing="0.2">
+      ⚡ Keep learning, keep building, stay consistent
+    </text>
+
+    <!-- subtle bright core -->
+    <text x="50%" y="75" text-anchor="middle"
+          font-family="Inter, Roboto, Arial, sans-serif"
+          font-weight="900" font-size="44" fill="#FFFFFF" opacity="0.12">
       ⚡ Keep learning, keep building, stay consistent
     </text>
   </g>
 
-  <!-- small subtitle line -->
-  <text x="50%" y="160" text-anchor="middle" font-family="Inter,Segoe UI,Roboto,Arial,sans-serif"
-        font-weight="500" font-size="16" fill="#A6E3D0" opacity="0.9">
-    Ritesh Singh — Aspiring Cloud & DevOps Engineer • AWS · Docker · Terraform · CI/CD
+  <!-- subtitle -->
+  <text x="50%" y="190" text-anchor="middle"
+        font-family="Inter, Roboto, Arial, sans-serif"
+        font-weight="500" font-size="16" fill="#CDEBF6" opacity="0.95">
+    Ritesh Singh - Aspiring Cloud and DevOps Engineer | AWS, Docker, Terraform, CI/CD
   </text>
 
-  <!-- subtle bottom glow bar -->
-  <rect x="0" y="220" width="1200" height="6" fill="url(#bg)" opacity="0.14"/>
+  <!-- bottom accent bar -->
+  <rect x="0" y="246" width="1200" height="6" fill="rgba(255,107,166,0.12)"/>
 </svg>
-
