@@ -5,20 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/devops-logo.svg" alt="DevOps Infinity Logo" width="100" />
-</p>
-
----
-
-
-## 💼 About Me  
-**Aspiring Cloud & DevOps Engineer** skilled in **AWS ☁️**, **Docker 🐳**, **Terraform ⚙️**, and **CI/CD 🚀**  
-📍 Passionate about automation, scalability, and building production-ready cloud solutions.  
-💡 Currently on a **100 Days of DevOps** journey — documenting my progress and sharing knowledge.
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -56,6 +42,12 @@
   &nbsp;
  
 </p>
+
+---
+## 💼 About Me  
+**Aspiring Cloud & DevOps Engineer** skilled in **AWS ☁️**, **Docker 🐳**, **Terraform ⚙️**, and **CI/CD 🚀**  
+📍 Passionate about automation, scalability, and building production-ready cloud solutions.  
+💡 Currently on a **100 Days of DevOps** journey — documenting my progress and sharing knowledge.
 
 ---
 <!-- Motto Banner -->
