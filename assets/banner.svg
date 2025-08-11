@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" preserveAspectRatio="xMidYMid slice">
   <defs>
     <!-- background gradient -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -26,16 +26,16 @@
   </defs>
 
   <!-- background -->
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect width="1200" height="200" fill="url(#dots)"/>
 
   <!-- Top animated wave -->
   <path fill="#ffffff20">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="
-        M0,50 C300,150 900,-50 1200,50 L1200,0 L0,0 Z;
-        M0,70 C300,100 900,0 1200,30 L1200,0 L0,0 Z;
-        M0,50 C300,150 900,-50 1200,50 L1200,0 L0,0 Z" />
+        M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z;
+        M0,70 2300,100 900,0 1200,30 L1200,0 L0,0 Z;
+        M0,50 2300,150 900,-50 1200,50 L1200,0 L0,0 Z" />
   </path>
 
   <!-- main neon text -->
@@ -68,8 +68,8 @@
   <path fill="#ffffff20" transform="translate(0,250)">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="
-        M0,50 C300,150 900,-50 1200,50 L1200,0 L0,0 Z;
-        M0,70 C300,100 900,0 1200,30 L1200,0 L0,0 Z;
-        M0,50 C300,150 900,-50 1200,50 L1200,0 L0,0 Z" />
+        M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z;
+        M0,70 C200,100 900,0 1200,30 L1200,0 L0,0 Z;
+        M0,50 C200,150 900,-50 1200,50 L1200,0 L0,0 Z" />
   </path>
 </svg>
