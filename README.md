@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/devops-logo.svg" alt="DevOps Infinity Logo" width="200" />
+  <img src="./assets/devops-logo.svg" alt="DevOps Infinity Logo" width="100" />
 </p>
 
 ---
