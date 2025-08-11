@@ -1,6 +1,6 @@
-<!-- Profile Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
+<p align="center">
+  <img src="./assets/header.svg" alt="Hi, I'm Ritesh Singh 🚀" />
+</p>
 
 ---
 
