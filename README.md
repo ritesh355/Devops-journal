@@ -4,6 +4,11 @@
 
 ---
 
+<p align="center">
+  <img src="assets/devops.svg" alt="DevOps Logo" width="400"/>
+</p>
+---
+
 
 ## 💼 About Me  
 **Aspiring Cloud & DevOps Engineer** skilled in **AWS ☁️**, **Docker 🐳**, **Terraform ⚙️**, and **CI/CD 🚀**  
