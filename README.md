@@ -61,12 +61,7 @@
 </p>
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB,ADD8E6&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=FF69B4,FFC0CB&animation=fadeIn&fontAlignY=35" alt="Motto Banner" />
-</p>
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4D68,000428&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=32&fontColor=FF69B4,FFB6C1&animation=fadeIn&fontAlignY=35" alt="Motto Banner" />
+  <img src="./assets/banner.svg" alt="Ritesh Singh — Keep learning, keep building" />
 </p>
 ---
 <p align="center">
