@@ -151,7 +151,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 [![Hashnode Badge](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ritesh-devops.hashnode.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-singh-092b84340)
 <img src="https://img.shields.io/docker/pulls/ritesh355/your-image?color=0A192F" alt="Docker Pulls" />
-
+<img src="https://github.com/ritesh355/flask-ci-cd-demo/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
 ---
 
 ## 🙌 Let’s Connect
