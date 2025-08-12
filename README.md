@@ -52,8 +52,6 @@
   <a href="https://hub.docker.com/u/ritesh355" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Explore my Docker images" />
   </a>
-
-  <img src="https://img.shields.io/docker/pulls/ritesh355/ritesh355/node-mongo-app?color=0A192F" alt="Docker Pulls" />
 </p>
 
 ---
@@ -152,6 +150,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 [![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-singh-092b84340)
 <img src="https://img.shields.io/docker/pulls/ritesh355/your-image?color=0A192F" alt="Docker Pulls" />
 <img src="https://github.com/ritesh355/flask-ci-cd-demo/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
+<img src="https://user-images.githubusercontent.com/73097560/230553236-d3e6d4df-69c3-4b57-a3f7-3c34df571b1d.gif" style="width:100%;max-width:800px;" alt="DevOps Infinity Loop" />
 ---
 
 ## 🙌 Let’s Connect
