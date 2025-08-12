@@ -1,4 +1,4 @@
-# 🚀 Day 38: GitHub Actions Caching Strategies – Speed Up Your CI/CD! #100DaysOfDevOps
+# 🚀 Day 38: GitHub Actions Caching Strategies – Speed Up Your CI/CD! 
 
 Welcome to **Day 38** of my [#100DaysOfDevOps](https://github.com/ritesh355/Devops-journal)!  
 Today, we’re diving into **GitHub Actions caching** to supercharge your CI/CD workflows by caching dependencies with `actions/cache@v4`. Let’s make those builds lightning fast! ⚡ #DevOps #GitHubActions
