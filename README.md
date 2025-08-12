@@ -152,8 +152,19 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 <img src="https://img.shields.io/docker/pulls/ritesh355/your-image?color=0A192F" alt="Docker Pulls" />
 <img src="https://github.com/ritesh355/flask-ci-cd-demo/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
 <img src="https://user-images.githubusercontent.com/73097560/230553236-d3e6d4df-69c3-4b57-a3f7-3c34df571b1d.gif" style="width:100%;max-width:800px;" alt="DevOps Infinity Loop" />
+
 ---
 
+## 📢 Follow My Journey
+<p align="center">
+  <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ritesh-singh-092b84340" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ritesh355" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add the X badge here -->
+  <a href="https://x.com/RITESH1697444" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" /></a>
+</p>
+
+---
 ## 🙌 Let’s Connect
 
 If you're also learning DevOps, let's connect and grow together!
