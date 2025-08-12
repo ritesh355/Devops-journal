@@ -148,6 +148,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
   
 [![Hashnode Badge](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ritesh-devops.hashnode.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-singh-092b84340)
+<a href="https://x.com/"@RITESH1697444><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <img src="https://img.shields.io/docker/pulls/ritesh355/your-image?color=0A192F" alt="Docker Pulls" />
 <img src="https://github.com/ritesh355/flask-ci-cd-demo/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
 <img src="https://user-images.githubusercontent.com/73097560/230553236-d3e6d4df-69c3-4b57-a3f7-3c34df571b1d.gif" style="width:100%;max-width:800px;" alt="DevOps Infinity Loop" />
