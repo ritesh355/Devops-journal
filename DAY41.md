@@ -92,9 +92,12 @@ netstat -tulnp
 
 ---
 
-👨‍💻 Author
+## 🔗 Connect with Me
 
-Ritesh Singh
-🌐 LinkedIn | 📝 Hashnode | GITHUB
+- 📘 [GitHub: ritesh355](https://github.com/ritesh355)
+- ✍️ [Hashnode: ritesh-devops.hashnode.dev](https://ritesh-devops.hashnode.dev)
+- 💼 [LinkedIn: ritesh-singh-092b84340](https://www.linkedin.com/in/ritesh-singh-092b84340)
+
+
 
 Built as part of a 40-day Containers & Automation journey. Let’s containerize the world! 🚢
