@@ -89,10 +89,10 @@ route -n
 # Display active connections and listening ports
 netstat -tulnp
 
-
+```
 ---
 
-## 🔗 Connect with Me
+### 🔗 Connect with Me
 
 - 📘 [GitHub: ritesh355](https://github.com/ritesh355)
 - ✍️ [Hashnode: ritesh-devops.hashnode.dev](https://ritesh-devops.hashnode.dev)
