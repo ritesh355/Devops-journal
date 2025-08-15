@@ -89,3 +89,13 @@ route -n
 # Display active connections and listening ports
 netstat -tulnp
 
+
+---
+
+## 👨‍💻 Author
+
+**Ritesh Singh**  
+🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-singh-092b84340/) | 📝 [Hashnode](https://ritesh-devops.hashnode.dev/) | [GITHUB](https://github.com/ritesh355/Devops-journal)
+
+
+
