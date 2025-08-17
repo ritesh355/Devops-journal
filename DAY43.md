@@ -87,26 +87,32 @@ sudo ufw delete allow 80/tcp
 
 ```
 
-###Using iptables (Advanced Firewall Rules)
+# Using iptables (Advanced Firewall Rules)
 
-# View existing rules
+### View existing rules
 sudo iptables -L -v
 
-# Allow incoming HTTP traffic (port 80)
+### Allow incoming HTTP traffic (port 80)
 sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 
-# Block incoming traffic from a specific IP
+### Block incoming traffic from a specific IP
 sudo iptables -A INPUT -s 192.168.1.100 -j DROP
 
-# Allow SSH from a specific subnet
+### Allow SSH from a specific subnet
 sudo iptables -A INPUT -p tcp -s 192.168.1.0/24 --dport 22 -j ACCEPT
 
-# Drop all incoming connections by default
+### Drop all incoming connections by default
 sudo iptables -P INPUT DROP
 
-# Save iptables rules (Debian/Ubuntu)
+### Save iptables rules (Debian/Ubuntu)
 sudo sh -c "iptables-save > /etc/iptables/rules.v4"
-#️⃣ Hashtags:
+
+---
+## 👨‍💻 Author
+**Ritesh Singh**  
+🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-singh-092b84340/) | 📝 [Hashnode](https://ritesh-devops.hashnode.dev/) | [GitHub](https://github.com/ritesh355/Devops-journal)
+
+#100DaysOfDevOps #CICD #GitHubActions #DevOps #Beginner
 #100DaysOfDevOps #Networking #Security #Linux #CloudComputing #Firewalls #DNS #DHCP #NAT
 
 
