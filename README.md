@@ -4,13 +4,19 @@
 
 
 ---
-
 ## 💼 About Me  
-**Aspiring Cloud & DevOps Engineer** skilled in **AWS ☁️**, **Docker 🐳**, **Terraform ⚙️**, and **CI/CD 🚀**  
-📍 Passionate about automation, scalability, and building production-ready cloud solutions.  
-💡 Currently on a **100 Days of DevOps** journey — documenting my progress and sharing knowledge.
+I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD pipelines, and cloud-native solutions.  
+
+- ☁️ Skilled in **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins**  
+- 🔄 Experienced in **CI/CD, Infrastructure as Code, and Monitoring (Prometheus + Grafana)**  
+- 📝 Documenting my journey via **#100DaysOfDevOps** on <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> and    <a href="https://x.com/RITESH1697444" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" /></a>
+
+
+![100 Days of DevOps](https://img.shields.io/badge/100DaysOfDevOps-In%20Progress-blue?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ritesh355/Devops-journal?style=for-the-badge)
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -166,7 +172,8 @@ I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD 
 
 - ☁️ Skilled in **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins**  
 - 🔄 Experienced in **CI/CD, Infrastructure as Code, and Monitoring (Prometheus + Grafana)**  
-- 📝 Documenting my journey via **#100DaysOfDevOps** on <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> and [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)  
+- 📝 Documenting my journey via **#100DaysOfDevOps** on <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> and    <a href="https://x.com/RITESH1697444" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" /></a>
+
 
 ![100 Days of DevOps](https://img.shields.io/badge/100DaysOfDevOps-In%20Progress-blue?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ritesh355/Devops-journal?style=for-the-badge)
