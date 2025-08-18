@@ -15,6 +15,19 @@ I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD 
 ![100 Days of DevOps](https://img.shields.io/badge/100DaysOfDevOps-In%20Progress-blue?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ritesh355/Devops-journal?style=for-the-badge)
 
+
+---
+
+## 📍 My DevOps Learning Roadmap  
+
+<p align="center">
+  <!-- Light mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/devops_roadmap_dark.png">
+    <img src="./assets/devops_roadmap.png" alt="DevOps Roadmap">
+  </picture>
+</p>
+
 ---
 
 
