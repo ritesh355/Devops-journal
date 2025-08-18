@@ -64,6 +64,11 @@
 
 ---
 
+![100 Days of DevOps](https://img.shields.io/badge/100DaysOfDevOps-In%20Progress-blue?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ritesh355/Devops-journal?style=for-the-badge)
+
+---
+
 ## 📌 About This Repository
 
 This repository is part of my **#100DaysOfDevOps** challenge where I learn and implement key DevOps concepts one day at a time. It includes:
@@ -72,13 +77,6 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 - 🛠️ Hands-on Practice with Tools like Docker, GitHub Actions, etc.  
 - 🚀 Mini Projects to reinforce learning  
 - 📝 Links to my blogs and resources  
----
-
-<!-- Motto Banner -->
-<p align="center">
-  <img src="./assets/banner.svg" alt="⚡ Keep learning, keep building, stay consistent" />
-</p>
-
 ---
 
 ## 🗂️ Table of Contents
