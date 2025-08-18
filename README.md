@@ -58,9 +58,6 @@ I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD 
 
 ---
 
-
-
-
 ## 📢 Follow My Journey
 <p align="center">
   <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
@@ -69,11 +66,6 @@ I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD 
   <!-- Add the X badge here -->
   <a href="https://x.com/RITESH1697444" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" /></a>
 </p>
-
----
-
-![100 Days of DevOps](https://img.shields.io/badge/100DaysOfDevOps-In%20Progress-blue?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/ritesh355/Devops-journal?style=for-the-badge)
 
 ---
 
@@ -113,7 +105,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 20 |Documents + Blog your learning|[DAY20](https://github.com/ritesh355/Devops-journal/blob/main/Day20.md)
 | Day 21 |Docker basics|[DAY21](https://github.com/ritesh355/Devops-journal/blob/main/day%2021%20Docker%20Basic%20.md)
 | Day 22 |Docker basic command|[DAY22](https://github.com/ritesh355/Devops-journal/blob/main/Day22.Docker_basic%20commands.md)
-| Day 23 |what ia dockerfile|[DAY23](https://githm/ritesh355/Devops-journal/blob/main/DAY23.md.md)
+| Day 23 |what ia dockerfile|[DAY23](https://github.com/ritesh355/Devops-journal/blob/main/DAY23.md.md)
 | Day 24 |Docker images: The building block of container|[DAY24](https://github.com/ritesh355/Devops-journal/blob/main/DAY24.md)
 | Day 25 |Docker multi-stage builds--> explained with typescript node.js app|[DAY25](https://github.com/ritesh355/Devops-journal/blob/main/DAY25.md)                                                        
 | Day 26 |Dockerfile + Docker compose|[DAY26](https://github.com/ritesh355/Devops-journal/blob/main/day26.md)
@@ -161,114 +153,9 @@ Feel free to fork, follow, or contribute suggestions. 💬
 
 ---
 
-<p align="center">
-  <img src="./assets/header.svg" alt="Hi, I'm Ritesh Singh 🚀" />
-</p>
-
----
-
-## 💼 About Me  
-I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD pipelines, and cloud-native solutions.  
-
-- ☁️ Skilled in **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins**  
-- 🔄 Experienced in **CI/CD, Infrastructure as Code, and Monitoring (Prometheus + Grafana)**  
-- 📝 Documenting my journey via **#100DaysOfDevOps** on <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> and    <a href="https://x.com/RITESH1697444" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" /></a>
 
 
-![100 Days of DevOps](https://img.shields.io/badge/100DaysOfDevOps-In%20Progress-blue?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/ritesh355/Devops-journal?style=for-the-badge)
 
----
 
-## 🛠️ Tech Stack  
-
-<p align="left">
-  <!-- DevOps & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" width="40" height="40" title="Jira" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="40" alt="AWS logo"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" />
-</p>
-
----
-
-## 🚀 Key Projects from this Journey  
-Here are some of the flagship projects I built during my **100 Days of DevOps**:  
-
-- 🔹 [Weather App (Flask + Docker + Nginx)](./DAY30.md)  
-- 🔹 [CI/CD with Flask + Docker + GitHub Actions](./DAY40.md)  
-- 🔹 [Terraform + AWS Infrastructure (coming soon)]()  
-- 🔹 [Monitoring with Prometheus + Grafana (coming soon)]()  
-
----
-
-## 📢 Follow My Journey  
-<p align="center">
-  <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ritesh-singh-092b84340" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ritesh355" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/RITESH1697444" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" /></a>
-</p>
-
----
-
-## 📌 About This Repository  
-This repository is part of my **#100DaysOfDevOps** challenge where I learn and implement key DevOps concepts one day at a time. It includes:  
-
-- 📘 Daily Logs & Learnings  
-- 🛠️ Hands-on Practice with Tools like Docker, GitHub Actions, etc.  
-- 🚀 Mini Projects to reinforce learning  
-- 📝 Links to my blogs and resources  
-
----
-
-## 🗂️ Table of Contents  
-
-| Day | Topics Covered | Link |
-|-----|----------------|------|
-| Day 1 | Linux basics, touch vs echo, serving HTML | [DAY1](./Day1.md) |
-| Day 2 | File permissions, Git basics, GitHub push | [DAY2](./Day2(1).md) |
-| Day 3 | Process management & system info | [DAY3](./Day3.md) |
-| Day 4 | Linux User And Group Management | [DAY4](./day4.md) |
-| Day 5 | Bash Scripting | [DAY5](./Day5.md) |
-| Day 6 | Automatic System Health with bash | [DAY6](./Day6) |
-| Day 7 | Git Branching Merging and Conflict Resolution | [DAY7](./Day7.md) |
-| Day 8 | Mastering GitHub and pushing project publicly | [DAY8](./Day8.md) |
-| Day 9 | Archiving Compression and Backup Automation | [DAY9](./Day9.md) |
-| Day 10 | Mastering SSH, Key-based Authentication, Remote Access | [DAY10](./Day10.md) |
-| ... | ... | ... |
-
-(✅ Make sure all links are corrected, e.g. Day23 typo fixed.)
-
----
-
-<!-- Motto Banner -->
-<p align="center">
-  <img src="./assets/banner.svg" alt="⚡ Keep learning, keep building, stay consistent" />
-</p>
-
----
-
-## 🙌 Let’s Connect  
-If you're also learning DevOps, let's connect and grow together!  
-
-Feel free to fork, follow, or contribute suggestions. 💬  
-
----
-
-> 📌 This is part of my **#100DaysOfDevOps** journey — follow along for daily updates!
 
 
