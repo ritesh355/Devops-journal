@@ -5,6 +5,13 @@
 
 ---
 
+## 💼 About Me  
+**Aspiring Cloud & DevOps Engineer** skilled in **AWS ☁️**, **Docker 🐳**, **Terraform ⚙️**, and **CI/CD 🚀**  
+📍 Passionate about automation, scalability, and building production-ready cloud solutions.  
+💡 Currently on a **100 Days of DevOps** journey — documenting my progress and sharing knowledge.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -45,12 +52,7 @@
 
 ---
 
-## 💼 About Me  
-**Aspiring Cloud & DevOps Engineer** skilled in **AWS ☁️**, **Docker 🐳**, **Terraform ⚙️**, and **CI/CD 🚀**  
-📍 Passionate about automation, scalability, and building production-ready cloud solutions.  
-💡 Currently on a **100 Days of DevOps** journey — documenting my progress and sharing knowledge.
 
----
 
 
 ## 📢 Follow My Journey
@@ -164,7 +166,7 @@ I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD 
 
 - ☁️ Skilled in **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins**  
 - 🔄 Experienced in **CI/CD, Infrastructure as Code, and Monitoring (Prometheus + Grafana)**  
-- 📝 Documenting my journey via **#100DaysOfDevOps** on [Hashnode](https://ritesh-devops.hashnode.dev) and [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)  
+- 📝 Documenting my journey via **#100DaysOfDevOps** on <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> and [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)  
 
 ![100 Days of DevOps](https://img.shields.io/badge/100DaysOfDevOps-In%20Progress-blue?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ritesh355/Devops-journal?style=for-the-badge)
