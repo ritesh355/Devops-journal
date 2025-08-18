@@ -9,7 +9,7 @@ I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD 
 
 - ☁️ Skilled in **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins**  
 - 🔄 Experienced in **CI/CD, Infrastructure as Code, and Monitoring (Prometheus + Grafana)**  
-- 📝 Documenting my journey via **#100DaysOfDevOps** on <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> ||    <a href="https://x.com/RITESH1697444" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" /></a>
+- 📝 Documenting my journey via **#100DaysOfDevOps** on <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>     <a href="https://x.com/RITESH1697444" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" /></a>
 
 
 ![100 Days of DevOps](https://img.shields.io/badge/100DaysOfDevOps-In%20Progress-blue?style=for-the-badge)
