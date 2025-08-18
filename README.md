@@ -45,16 +45,6 @@
 
 ---
 
-## 🐳 Docker Hub
-<p align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img src="https://img.shields.io/badge/Total%20Docker%20Pulls-290-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Total Docker Pulls" />
-
-  <a href="https://hub.docker.com/u/ritesh355" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Explore my Docker images" />
-  </a>
-</p>
-
----
 ## 💼 About Me  
 **Aspiring Cloud & DevOps Engineer** skilled in **AWS ☁️**, **Docker 🐳**, **Terraform ⚙️**, and **CI/CD 🚀**  
 📍 Passionate about automation, scalability, and building production-ready cloud solutions.  
@@ -144,15 +134,13 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 
 
 
-
-
-
-
-
-
+---
+<!-- Motto Banner -->
+<p align="center">
+  <img src="./assets/banner.svg" alt="⚡ Keep learning, keep building, stay consistent" />
+</p>
 
 ---
-
 
 ---
 ## 🙌 Let’s Connect
