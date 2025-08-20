@@ -189,3 +189,13 @@ The final diagram includes:
 - [AWS Networking Fundamentals](https://aws.amazon.com/vpc/)
 
 For further assistance, consult AWS documentation or your cloud architect.
+
+---
+
+## 👨‍💻 Author
+**Ritesh Singh**  
+🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-singh-092b84340/) | 📝 [Hashnode](https://ritesh-devops.hashnode.dev/) | [GitHub](https://github.com/ritesh355/Devops-journal)
+
+#100DaysOfDevOps #CICD #GitHubActions #DevOps #Beginner
+#100DaysOfDevOps #Networking #Security #Linux #CloudComputing #Firewalls #DNS #DHCP #NAT
+
