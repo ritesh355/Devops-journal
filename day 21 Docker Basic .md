@@ -49,7 +49,7 @@ Docker is a containerization platform that packages applications and all their d
 sudo apt update
 sudo apt install docker.io -y
 ```
-###✅  Start the Docker daemon
+### ✅  Start the Docker daemon
 ```bash
 sudo systemctl start docker
 ```
@@ -57,7 +57,9 @@ sudo systemctl start docker
 ```bash
 sudo systemctl enable docker
 ```
-###✅  Verify that Docker is running
+---
+### ✅ Verify that Docker is running
+
 ```bash
 sudo systemctl status docker
 ```
