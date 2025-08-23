@@ -172,7 +172,8 @@ newgrp docker   # apply group change immediately
 docker --version
 docker run hello-world
 ```
-##🧠 Step 3 — Install kubectl (Kubernetes CLI)
+
+## 🧠 Step 3 — Install kubectl (Kubernetes CLI)
 ```bash
 # Step 1: Download kubectl
 curl -LO https://dl.k8s.io/release/v1.30.0/bin/linux/amd64/kubectl
@@ -196,7 +197,7 @@ minikube version
 ```
 ---
 
-##▶️ Step 5 — Start Your Kubernetes Cluster
+## ▶️ Step 5 — Start Your Kubernetes Cluster
 ```bash
 minikube start --driver=docker
 ```
