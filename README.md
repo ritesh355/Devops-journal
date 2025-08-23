@@ -18,18 +18,6 @@ I am an **Aspiring Cloud & DevOps Engineer** passionate about automation, CI/CD 
 
 ---
 
-## 📍 My DevOps Learning Roadmap  
-
-<p align="center">
-  <!-- Light mode -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/devops_roadmap_dark.png">
-    <img src="./assets/devops_roadmap.png" alt="DevOps Roadmap">
-  </picture>
-</p>
-
----
-
 
 ## 🛠️ Tech Stack
 
