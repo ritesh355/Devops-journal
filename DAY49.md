@@ -1,6 +1,6 @@
-# 🟦 Day 2: Pods & kubectl
+# 🟦 Day 49: Pods & kubectl
 
-Welcome to **Day 2 of Kubernetes learning**.  
+Welcome to **Day 49 of Kubernetes learning**.  
 Today we’ll dive into **Pods** (the smallest deployable unit in Kubernetes) and learn how to manage them using **kubectl**.
 
 ---
@@ -102,7 +102,7 @@ Pods are ephemeral:
 
 - If a Pod crashes, it does not automatically restart.
 - Kubernetes can restart the container inside a Pod if configured with `restartPolicy`.
-- For scaling and self-healing, we use ReplicaSets and Deployments (covered in Day 3).
+- For scaling and self-healing, we use ReplicaSets and Deployments (covered in Day 50).
 
 # When to Use Pods Directly?
 
