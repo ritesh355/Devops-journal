@@ -91,7 +91,7 @@ A Rolling Update gradually replaces old Pods with new ones without downtime.
 - Default update strategy in Kubernetes is RollingUpdate.
 
 ---
-###🔹 Example: Deploy Nginx
+### 🔹 Example: Deploy Nginx
 
 Let’s say you deploy an Nginx app (v1.14):
 
