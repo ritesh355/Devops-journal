@@ -124,12 +124,77 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 38 |GitHub Actions Caching Strategies – Speed Up Your CI/CD|[DAY38](https://github.com/ritesh355/Devops-journal/blob/main/DAY38.md)
 | Day 39 |GitHub Actions – Docker Layer Caching|[DAY39](https://github.com/ritesh355/Devops-journal/blob/main/DAY39.md)
 | Day 40 |CI/CD with Flask + Docker + GitHub Actions |[DAY40](https://github.com/ritesh355/Devops-journal/blob/main/DAY40.md)
-| Day 41 |
-| Day 42 |
-| Day 43 |
-| Day 44 |
-| Day 45 |
-| Day 46 |
+| Day 41 |Networking Basics (Cloud & DevOps Foundations)|
+| Day 42 |OSI & TCP/IP Models in Practice
+| Day 43 |DNS, DHCP, NAT & Firewall Basics
+| Day 44 |Networking and Security Concepts: HTTP, HTTPS, TLS/SSL, Ports, and Security Groups
+| Day 45 |VPNs, SSH, SFTP, and Bastion Hosts
+| Day 46 |Networking in the Cloud – VPCs, Subnets, Gateways, and Peering
+|Day 47 |Securing the Cloud with AWS IAM, MFA, and Least Privilege
+|Day 48 |Kubernetes Journey – DevOps Journal
+|Day 49 |Pods & kubectl
+|Day 50 |ReplicaSets & Deployments in Kubernetes
+|Day 51 |
+|Day 52 |
+|Day 53 |
+|Day 54 |
+|Day 55 |
+|Day 56 |
+|Day 57 |
+|Day 58 |
+|Day 59 |
+|Day 60 |
+|Day 61 |
+|Day 62 |
+|Day 63 |
+|Day 64 |
+|Day 65 |
+|Day 66 |
+|Day 67 |
+|Day 68 |
+|Day 69 |
+|Day 70 |
+|Day 71 |
+|Day 72 |
+|Day 73 |
+|Day 74 |
+|Day 75 |
+|Day 76 |
+|Day 77 |
+|Day 78 |
+|Day 79 |
+|Day 80 |
+|Day 81 |
+|Day 82 |
+|Day 83 |
+|Day 84 |
+|Day 85 |
+|Day 86 |
+|Day 87 |
+|Day 88 |
+|Day 89 |
+|Day 90 |
+|Day 91 |
+|Day 92 |
+|Day 93 |
+|Day 94 |
+|Day 95 |
+|Day 96 |
+|Day 97 |
+|Day 98 |
+|Day 99 |
+|Day 100 |
+
+
+
+
+
+
+
+
+
+
+
 
 
 
