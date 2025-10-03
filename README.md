@@ -122,18 +122,18 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 36 |Automating Docker Builds with GitHub Actions| [DAY36](https://github.com/ritesh355/Devops-journal/blob/main/Day36.md)
 | Day 37 |GitHub Actions – Matrix Builds with Node.js + Jest  |[DAY37](https://github.com/ritesh355/Devops-journal/blob/main/DAY37.md)
 | Day 38 |GitHub Actions Caching Strategies – Speed Up Your CI/CD|[DAY38](https://github.com/ritesh355/Devops-journal/blob/main/DAY38.md)
-| Day 39 |GitHub Actions – Docker Layer Caching|[DAY39](https://github.com/ritesh355/Devops-journal/blob/main/DAY39.md)
-| Day 40 |CI/CD with Flask + Docker + GitHub Actions |[DAY40](https://github.com/ritesh355/Devops-journal/blob/main/DAY40.md)
-| Day 41 |Networking Basics (Cloud & DevOps Foundations)|
-| Day 42 |OSI & TCP/IP Models in Practice
-| Day 43 |DNS, DHCP, NAT & Firewall Basics
-| Day 44 |Networking and Security Concepts: HTTP, HTTPS, TLS/SSL, Ports, and Security Groups
-| Day 45 |VPNs, SSH, SFTP, and Bastion Hosts
-| Day 46 |Networking in the Cloud – VPCs, Subnets, Gateways, and Peering
-|Day 47 |Securing the Cloud with AWS IAM, MFA, and Least Privilege
-|Day 48 |Kubernetes Journey – DevOps Journal
-|Day 49 |Pods & kubectl
-|Day 50 |ReplicaSets & Deployments in Kubernetes
+| Day 39 |GitHub Actions – Docker Layer Caching|[DAY39](https://github.com/ritesh355/Devops-journal/blob/main/DAY41.md)
+| Day 40 |CI/CD with Flask + Docker + GitHub Actions |[DAY40](https://github.com/ritesh355/Devops-journal/blob/main/DAY42.md)
+| Day 41 |Networking Basics (Cloud & DevOps Foundations)|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY43.md)
+| Day 42 |OSI & TCP/IP Models in Practice|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY44.md)
+| Day 43 |DNS, DHCP, NAT & Firewall Basics|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY45.md)
+| Day 44 |Networking and Security Concepts: HTTP, HTTPS, TLS/SSL, Ports, and Security Groups|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY46.md)
+| Day 45 |VPNs, SSH, SFTP, and Bastion Hosts|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY47.md)
+| Day 46 |Networking in the Cloud – VPCs, Subnets, Gateways, and Peering|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY48.md)
+|Day 47 |Securing the Cloud with AWS IAM, MFA, and Least Privilege|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY48.md)
+|Day 48 |Kubernetes Journey – DevOps Journal|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY40.md)
+|Day 49 |Pods & kubectl|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY49.md)
+|Day 50 |ReplicaSets & Deployments in Kubernetes|[DAY41](https://github.com/ritesh355/Devops-journal/blob/main/DAY50.md)
 |Day 51 |
 |Day 52 |
 |Day 53 |
