@@ -1,4 +1,4 @@
-# Day 6: Managing Configuration with ConfigMaps and Secrets in Kubernetes
+#  Managing Configuration with ConfigMaps and Secrets in Kubernetes
 
 ## Introduction
 
