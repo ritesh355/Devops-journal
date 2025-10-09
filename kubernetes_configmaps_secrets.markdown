@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Welcome to Day 6 of my Kubernetes learning journey! Today, we're diving into **ConfigMaps** and **Secrets**, two essential Kubernetes resources for managing application configuration and sensitive data. These tools allow you to decouple configuration from your application code, making your apps more portable and secure.
+Welcome to Day 56 of my Kubernetes learning journey! Today, we're diving into **ConfigMaps** and **Secrets**, two essential Kubernetes resources for managing application configuration and sensitive data. These tools allow you to decouple configuration from your application code, making your apps more portable and secure.
 
-In this post, we’ll explore how ConfigMaps and Secrets work, how to mount them as environment variables or files in Pods, and wrap up with a hands-on example of deploying an application using both. If you missed Day 5 on Namespaces, Labels, and Selectors, check it out [here](link-to-day-5-post). Let’s get started!
+In this post, we’ll explore how ConfigMaps and Secrets work, how to mount them as environment variables or files in Pods, and wrap up with a hands-on example of deploying an application using both. If you missed Day 5 on Namespaces, Labels, and Selectors, check it out  Let’s get started!
 
 ## Understanding ConfigMaps
 
@@ -329,8 +329,5 @@ This hands-on demo shows how to use ConfigMaps and Secrets to manage configurati
 
 ConfigMaps and Secrets are powerful tools for managing configuration and sensitive data in Kubernetes. By decoupling these from your application code, you make your apps more portable, secure, and easier to manage across environments.
 
-Stay tuned for Day 7, where we’ll dive into Persistent Storage with Volumes and PersistentVolumeClaims! Drop your questions or feedback in the comments below.
-
-Thanks for reading! 🚀
 
 *Originally posted on Hashnode on October 9, 2025.*
