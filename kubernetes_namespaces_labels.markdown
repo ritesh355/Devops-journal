@@ -1,4 +1,4 @@
-# Day 5: Kubernetes Namespaces, Labels, and Selectors
+# Kubernetes Namespaces, Labels, and Selectors
 
 ## Introduction
 
