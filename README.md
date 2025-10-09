@@ -131,19 +131,19 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 | Day 45 |VPNs, SSH, SFTP, and Bastion Hosts|[DAY45](https://github.com/ritesh355/Devops-journal/blob/main/DAY45.md)
 | Day 46 |Networking in the Cloud – VPCs, Subnets, Gateways, and Peering|[DAY46](https://github.com/ritesh355/Devops-journal/blob/main/DAY46.md)
 |Day 47 |Securing the Cloud with AWS IAM, MFA, and Least Privilege|[DAY47](https://github.com/ritesh355/Devops-journal/blob/main/DAY47.md)
-|Day 48 |Kubernetes Journey – DevOps Journal|[DAY48](https://github.com/ritesh355/Devops-journal/blob/main/DAY48.md)
-|Day 49 |Pods & kubectl|[DAY49](https://github.com/ritesh355/Devops-journal/blob/main/DAY49.md)
-|Day 50 |ReplicaSets & Deployments in Kubernetes|[DAY50](https://github.com/ritesh355/Devops-journal/blob/main/DAY50.md)
-|Day 51 |
-|Day 52 |
-|Day 53 |
-|Day 54 |
-|Day 55 |
-|Day 56 |
-|Day 57 |
-|Day 58 |
-|Day 59 |
-|Day 60 |
+|Day 48 | Website Goes Down After Deployment—How Do You Investigate|[DAY48](https://github.com/ritesh355/Devops-journal/blob/main/website_downtime_investigation.markdown)
+|Day 49 |Handling a Failed Deployment|[DAY49](https://github.com/ritesh355/Devops-journal/blob/main/deployment_failure_case_study.markdown)
+|Day 50 |Debugging a Failing Deployment|[DAY50](https://github.com/ritesh355/Devops-journal/blob/main/debugging_failing_deployment.markdown)
+|Day 51 | Kubernetes Journey – DevOps Journal|[DAY51](https://github.com/ritesh355/Devops-journal/blob/main/DAY48.md)
+|Day 52 | Pods & kubectl|[DAY52](https://github.com/ritesh355/Devops-journal/blob/main/DAY49.md)
+|Day 53 | ReplicaSets & Deployments in Kubernetes|[DAY53](https://github.com/ritesh355/Devops-journal/blob/main/DAY50.md)
+|Day 54 | Mastering Kubernetes Services and Networking|[DAY54](https://github.com/ritesh355/Devops-journal/blob/main/Mastering%20Kubernetes%20Services%20and%20Networking.md)
+|Day 55 | Kubernetes Namespaces, Labels, and Selectors|[DAY55](https://github.com/ritesh355/Devops-journal/blob/main/kubernetes_namespaces_labels.markdown)
+|Day 56 | Managing Configuration with ConfigMaps and Secrets in Kubernetes|[DAY56](https://github.com/ritesh355/Devops-journal/blob/main/kubernetes_configmaps_secrets.markdown)
+|Day 57 | Mastering Volumes and Persistent Storage in Kubernetes|[DAY57](https://github.com/ritesh355/Devops-journal/blob/main/kubernetes_volumes_persistent_storage.markdown)
+|Day 58 |Exploring DaemonSets and StatefulSets in Kubernetes|[DAY58](https://github.com/ritesh355/Devops-journal/blob/main/kubernetes_daemonsets_statefulsets.markdown)
+|Day 59 |Running Batch and Scheduled Tasks with Jobs and CronJobs in Kubernetes|[DAY59](https://github.com/ritesh355/Devops-journal/blob/main/day59_kubernetes_jobs_cronjobs.markdown)
+|Day 60 |Mastering Probes and Resource Management in Kubernetes|[DAY60](https://github.com/ritesh355/Devops-journal/blob/main/day60_kubernetes_probes_resource_management.markdown)
 |Day 61 |
 |Day 62 |
 |Day 63 |
