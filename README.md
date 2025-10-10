@@ -144,15 +144,15 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 |Day 58 |Exploring DaemonSets and StatefulSets in Kubernetes|[DAY58](https://github.com/ritesh355/Devops-journal/blob/main/kubernetes_daemonsets_statefulsets.markdown)
 |Day 59 |Running Batch and Scheduled Tasks with Jobs and CronJobs in Kubernetes|[DAY59](https://github.com/ritesh355/Devops-journal/blob/main/day59_kubernetes_jobs_cronjobs.markdown)
 |Day 60 |Mastering Probes and Resource Management in Kubernetes|[DAY60](https://github.com/ritesh355/Devops-journal/blob/main/day60_kubernetes_probes_resource_management.markdown)
-|Day 61 |
-|Day 62 |
-|Day 63 |
-|Day 64 |
-|Day 65 |
-|Day 66 |
-|Day 67 |
-|Day 68 |
-|Day 69 |
+|Day 61 | Mastering Ingress and Ingress Controllers in Kubernetes|[DAY61](https://github.com/ritesh355/Devops-journal/blob/main/day61_kubernetes_ingress_controllers.markdown)
+|Day 62 | Service Accounts and Secrets for Applications in Kubernetes|[DAY62](https://github.com/ritesh355/Devops-journal/blob/main/day62_kubernetes_service_accounts_secrets.markdown)
+|Day 63 | Controlling Pod-to-Pod Communication with Network Policies in Kubernetes|[DAY63](https://github.com/ritesh355/Devops-journal/blob/main/day63_kubernetes_network_policies.markdown)
+|Day 64 |Security Best Practices in Kubernetes|[DAY64](https://github.com/ritesh355/Devops-journal/blob/main/day64_kubernetes_security_best_practices.markdown)
+|Day 65 |Helm - The Package Manager for Kubernetes|[DAY65](https://github.com/ritesh355/Devops-journal/blob/main/day65_kubernetes_helm.markdown)
+|Day 66 | Logging and Monitoring with Prometheus and Grafana in Kubernetes|[DAY66](https://github.com/ritesh355/Devops-journal/blob/main/day66_kubernetes_prometheus_grafana.markdown)
+|Day 67 |Introduction to Ansible for Configuration Management|[DAY67](https://github.com/ritesh355/Devops-journal/blob/main/day67_ansible_introduction.markdown)
+|Day 68 |Ansible Inventory & Ad-hoc Commands|[DAY68](https://github.com/ritesh355/Devops-journal/blob/main/day68_ansible_inventory_adhoc.markdown)
+|Day 69 |Ansible Configuration, Modules, and Writing Your First Playbook|[DAY69](https://github.com/ritesh355/Devops-journal/blob/main/day69_ansible_configuration_playbook.markdown)
 |Day 70 |
 |Day 71 |
 |Day 72 |
