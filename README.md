@@ -153,7 +153,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 |Day 67 |Introduction to Ansible for Configuration Management|[DAY67](https://github.com/ritesh355/Devops-journal/blob/main/day67_ansible_introduction.markdown)
 |Day 68 |Ansible Inventory & Ad-hoc Commands|[DAY68](https://github.com/ritesh355/Devops-journal/blob/main/day68_ansible_inventory_adhoc.markdown)
 |Day 69 |Ansible Configuration, Modules, and Writing Your First Playbook|[DAY69](https://github.com/ritesh355/Devops-journal/blob/main/day69_ansible_configuration_playbook.markdown)
-|Day 70 |
+|Day 70 |How to create iam-user in ec2|
 |Day 71 |
 |Day 72 |
 |Day 73 |
