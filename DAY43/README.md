@@ -1,76 +1,118 @@
-# 🚀 Day 42: OSI & TCP/IP Models in Practice
+# 📘 Day 43: DNS, DHCP, NAT & Firewall Basics  
 
-Today I explored two fundamental networking models that every DevOps & Cloud Engineer must understand:
-- **OSI (Open Systems Interconnection) Model**
-- **TCP/IP (Transmission Control Protocol / Internet Protocol) Model**
+Welcome to **Day 43** of my Networking & Security journey! 🚀 
+Today, I explored four core networking concepts that power the internet and practiced **firewall configuration** hands-on. 
 
-Along with theory, I also practiced important hands-on networking commands.
+---
 
-## 🧠 Conceptual Understanding
+## 🌍 1. DNS (Domain Name System)  
 
-### 🔹 OSI Model – 7 Layers
-1. **Physical Layer** → Deals with hardware, cables, signals, binary transmission.
-2. **Data Link Layer** → Ensures error-free delivery between nodes (MAC addresses, switches).
-3. **Network Layer** → Handles logical addressing & routing (IP addresses, routers).
-4. **Transport Layer** → Ensures reliable delivery (TCP/UDP, ports).
-5. **Session Layer** → Manages communication sessions.
-6. **Presentation Layer** → Data formatting, encryption, compression.
-7. **Application Layer** → End-user interaction (HTTP, FTP, DNS).
+- **Definition:** DNS translates **human-readable domain names** (e.g., `google.com`) into **IP addresses** (e.g., `142.250.182.78`) so computers can communicate.  
+- **How it works:**  
+  1. You type `example.com` in a browser.  
+  2. A DNS resolver queries a DNS server.  
+  3. The server responds with the correct IP address.  
+  4. Your browser connects to that IP.  
 
-### 🔹 TCP/IP Model – 4 Layers
-1. **Link Layer** → Physical + Data Link (Ethernet, Wi-Fi).
-2. **Internet Layer** → Network (IP, ICMP).
-3. **Transport Layer** → TCP, UDP.
-4. **Application Layer** → HTTP, DNS, SSH, etc.
+🔑 **Types of DNS Records:**  
+- **A Record:** Maps a domain → IPv4 address.  
+- **AAAA Record:** Maps a domain → IPv6 address.  
+- **CNAME:** Alias for another domain.  
+- **MX Record:** Mail exchange (used for email).  
 
-📌 **Key Difference:**
-- OSI is a **theoretical reference model**.
-- TCP/IP is **practical & widely used on the internet**.
+💡 **Analogy:** Think of DNS as the *phonebook of the internet*.  
 
-## 🛠️ Hands-on Practice
+---
 
-I used common Linux networking tools to connect theory with practice:
+## 📡 2. DHCP (Dynamic Host Configuration Protocol)  
 
-### 1️⃣ `ping` – Check connectivity
+- **Definition:** A network protocol that **automatically assigns IP addresses** and other network settings to devices.  
+- **Why it’s needed:** Without DHCP, every device would need to be manually configured.  
+- **How it works (DORA Process):**  
+  1. **Discover** → Client broadcasts to find DHCP server.  
+  2. **Offer** → DHCP server replies with an available IP.  
+  3. **Request** → Client requests the offered IP.  
+  4. **Acknowledge** → DHCP server confirms the assignment.  
+
+💡 **Analogy:** Imagine entering a parking lot where the guard (DHCP server) assigns you an empty parking spot (IP address).  
+
+---
+
+## 🌐 3. NAT (Network Address Translation)  
+
+- **Definition:** NAT allows multiple devices in a private network (e.g., `192.168.x.x`) to share a **single public IP** when accessing the internet.  
+- **Types of NAT:**  
+  - **Static NAT:** One private ↔ One public IP.  
+  - **Dynamic NAT:** Many private ↔ Many public IPs (from a pool).  
+  - **PAT (Port Address Translation):** Many private ↔ One public IP (most common, e.g., your home Wi-Fi).  
+
+💡 **Real-life Example:** Your home Wi-Fi has multiple devices, but the ISP sees only one **public IP**.  
+
+---
+
+## 🔥 4. Firewalls  
+
+A **firewall** is a security system that monitors and controls **incoming and outgoing traffic** based on defined rules.  
+
+- **Types of Firewalls:**  
+  - **Hardware Firewall:** Dedicated device (e.g., routers with firewall).  
+  - **Software Firewall:** Installed on operating systems (Linux `ufw`, `iptables`).  
+
+💡 **Analogy:** Think of a firewall as a **security guard** who checks ID cards before letting people (packets) enter a building (network).  
+
+---
+
+## 🛠 Hands-on Practice  
+
+### Using `ufw` (Uncomplicated Firewall)  
+
 ```bash
-ping google.com
+# Enable UFW
+sudo ufw enable
+
+# Check status
+sudo ufw status verbose
+
+# Allow SSH (port 22)
+sudo ufw allow 22
+
+# Allow HTTP (port 80)
+sudo ufw allow 80/tcp
+
+# Deny a specific port (e.g., 23 - Telnet)
+sudo ufw deny 23
+
+# Delete a rule
+sudo ufw delete allow 80/tcp
+
 ```
-- Sends ICMP echo requests.
-- Helps verify if a host is reachable.
 
-### 2️⃣ `traceroute` – Track packet path
-```bash
-traceroute google.com
-```
-- Shows all intermediate hops between source & destination.
-- Useful to troubleshoot latency & routing issues.
+# Using iptables (Advanced Firewall Rules)
 
-### 3️⃣ `netstat` – Network statistics
-```bash
-netstat -tulnp
-```
-- Displays open ports, listening services, and connections.
+### View existing rules
+sudo iptables -L -v
 
-### 4️⃣ `ss` – Modern alternative to netstat
-```bash
-ss -tulnp
-```
-- Faster and more detailed than netstat.
+### Allow incoming HTTP traffic (port 80)
+sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 
-### 5️⃣ `nmap` – Network mapper
-```bash
-nmap -sV localhost
-```
-- Scans open ports & identifies services running.
-- Used for security auditing.
+### Block incoming traffic from a specific IP
+sudo iptables -A INPUT -s 192.168.1.100 -j DROP
 
-## 🔎 Reflection
-- The OSI/TCP-IP models gave me a structured way to think about networking.
-- The hands-on commands showed me how to observe real traffic on my machine.
-- Now I understand how theory maps to practical tools in DevOps & Cloud.
+### Allow SSH from a specific subnet
+sudo iptables -A INPUT -p tcp -s 192.168.1.0/24 --dport 22 -j ACCEPT
 
+### Drop all incoming connections by default
+sudo iptables -P INPUT DROP
+
+### Save iptables rules (Debian/Ubuntu)
+sudo sh -c "iptables-save > /etc/iptables/rules.v4"
+
+---
 ## 👨‍💻 Author
 **Ritesh Singh**  
 🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-singh-092b84340/) | 📝 [Hashnode](https://ritesh-devops.hashnode.dev/) | [GitHub](https://github.com/ritesh355/Devops-journal)
 
-#100DaysOfDevOps #CICD #GitHubActions #DevOps #Beginner #networking #OSI #TCP/IP
+#100DaysOfDevOps #CICD #GitHubActions #DevOps #Beginner
+#100DaysOfDevOps #Networking #Security #Linux #CloudComputing #Firewalls #DNS #DHCP #NAT
+
+
