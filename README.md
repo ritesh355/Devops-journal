@@ -153,10 +153,10 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 |Day 67 |Introduction to Ansible for Configuration Management|[DAY67](https://github.com/ritesh355/Devops-journal/blob/main/day67_ansible_introduction.markdown)
 |Day 68 |Ansible Inventory & Ad-hoc Commands|[DAY68](https://github.com/ritesh355/Devops-journal/blob/main/day68_ansible_inventory_adhoc.markdown)
 |Day 69 |Ansible Configuration, Modules, and Writing Your First Playbook|[DAY69](https://github.com/ritesh355/Devops-journal/blob/main/day69_ansible_configuration_playbook.markdown)
-|Day 70 |How to create iam-user in ec2|
-|Day 71 |
-|Day 72 |
-|Day 73 |
+|Day 70 |Debugging a Failing Deployment|
+|Day 71 |Case Study: Handling a Failed Deployment|
+|Day 72 |Managing Configuration with ConfigMaps and Secrets in Kubernetes|
+|Day 73 |: Mastering Volumes and Persistent Storage in Kubernetes|[DAY73](https://github.com/ritesh355/Devops-journal/tree/main/DAY73)
 |Day 74 |
 |Day 75 |
 |Day 76 |
