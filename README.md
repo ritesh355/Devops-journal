@@ -158,7 +158,7 @@ This repository is part of my **#100DaysOfDevOps** challenge where I learn and i
 |Day 72 |Managing Configuration with ConfigMaps and Secrets in Kubernetes|
 |Day 73 |: Mastering Volumes and Persistent Storage in Kubernetes|[DAY73](https://github.com/ritesh355/Devops-journal/tree/main/DAY73)
 |Day 74 |
-|Day 75 |
+|Day 75 |Create & Manage an S3 Bucket|[DAY75](https://github.com/ritesh355/Devops-journal/blob/main/DAY75/README.md)
 |Day 76 |
 |Day 77 |
 |Day 78 |
