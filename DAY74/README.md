@@ -19,11 +19,10 @@ This project will give you hands-on experience with AWS compute services and bas
 ---
 
 ### 1. Launch an EC2 Instance
-1. Go to **EC2 Console .
-![Bucket Creation](images/console.png)
+1. Go to **EC2 Console 
 ---
 2.  **write the name of server**.
-![Bucket Creation](images/name.png)   
+ 
 ---
 3. Choose **Amazon Linux 2 AMI (Free Tier Eligible)**.
 4.  4. Select instance type: **t2.micro** (Free Tier).
@@ -32,15 +31,15 @@ This project will give you hands-on experience with AWS compute services and bas
 ---
    
 5. Create a new **Key Pair** →
-      ![Bucket Creation](images/key.png)   
+        
 ---
 6. write the **key pair** name according to you
-         ![Bucket Creation](images/keyname.png)   
+            
 
 8. Configure **Security Group**:
    - Allow **SSH (22)** from My IP
    - (Optional) Allow **HTTP (80)** for web access
-      ![Bucket Creation](images/launch2.png)   
+      
 
      
 9. Launch instance.
@@ -49,10 +48,10 @@ This project will give you hands-on experience with AWS compute services and bas
 
 ### 3. Connect to Instance
 1. go to the **ec2 server and connet**
-         ![Bucket Creation](images/connect.png)
+        
 
 2. click on **sshclient**
-      ![Bucket Creation](images/ssh.png)
+    
  
  3. open you **laptop terminal** and set correct permissions for key:
     **note**-> make sure your key is in same directly
@@ -61,10 +60,10 @@ This project will give you hands-on experience with AWS compute services and bas
    chmod 400 awskey.pem
   ```
 ---
-![Bucket Creation](images/copycommand.png)
 
 
- ![Bucket Creation](images/ec2connect.png)
+
+
 
 
 ---
@@ -81,7 +80,7 @@ This project will give you hands-on experience with AWS compute services and bas
 sudo yum install -y httpd
 ```
 ---
- ![Bucket Creation](images/yum.png)
+
 
 
 **Start service:**
@@ -94,11 +93,11 @@ sudo systemctl enable httpd
 echo "Hello from my EC2 instance 🚀" | sudo tee /var/www/html/index.html
 ```
 
- ![Bucket Creation](images/live.png)
+
 
 **Open browser → http://<EC2-Public-IP> → You should see your page.**
 
- ![Bucket Creation](images/output.png)
+
 
 
  ---
@@ -107,6 +106,7 @@ echo "Hello from my EC2 instance 🚀" | sudo tee /var/www/html/index.html
 - 📝 [Hashnode Blog](https://ritesh-devops.hashnode.dev)  
 - 💻 [GitHub](https://github.com/ritesh355)
    
+
 
 
 
